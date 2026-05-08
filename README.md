@@ -457,6 +457,46 @@ Optional request fields:
   }
 }
 ```
+---
+
+# Evaluation
+
+The pipeline was evaluated against human-annotated ground truth across 2 lease contracts.
+Ground truth was produced by manually reviewing each contract and verifying system outputs.
+
+
+## Per-Contract Results
+
+| Contract | Routing | Expected | Actual | Oblig. Precision | Oblig. Recall | Oblig. F1 | Blocking Risk Recall | Extraction Issues |
+|---|---|---|---|---|---|---|---|---|
+| contract_01 | ❌ | legal_review | clarification_required | 15.4% | 25.0% | 19.0% | 50.0% | 5 |
+| contract_02 | ✅ | legal_review | legal_review | 20.0% | 66.7% | 30.8% | 50.0% | 5 |
+
+### Interpretation
+
+**Obligation precision (17.4%)** reflects deliberate over-extraction: the system surfaces 
+contingent, conditional, and edge-case obligations that a human reviewer would typically 
+de-prioritize. A confidence threshold filter or obligation type classifier would improve 
+this significantly.
+
+**Obligation recall variance** (25% vs 67% across contracts) is driven by RAG retrieval 
+coverage. In contract_01, the core rent schedule (Article IV) was referenced but not 
+retrieved, causing the primary recurring obligation to be missed. This points to a 
+chunking strategy improvement, not a prompt design issue.
+
+**Routing accuracy (50%)** reflects a boundary sensitivity in the deterministic routing 
+agent between `clarification_required` and `legal_review`. The blocking risk count 
+threshold is tunable and represents the highest-priority calibration item.
+
+**Blocking risk recall (50%)** indicates the `is_blocking` flag criteria need refinement. 
+Missing a blocking risk has direct downstream business impact — this metric would be the 
+primary target in a production calibration cycle.
+
+These results reflect a 2-contract sample and are indicative rather than statistically 
+conclusive. They are included to demonstrate evaluation thinking, not to claim production 
+readiness.
+
+Full methodology and per-contract details: [`eval/results.md`](eval/results.md)
 
 ---
 
