@@ -4,6 +4,54 @@ Evidence-grounded AI contract analysis pipeline combining LLM extraction, determ
 
 ---
 
+# Product Brief
+
+## Who This Is For
+
+Contract managers, legal operations teams, and finance controllers at enterprises
+that process high volumes of lease, service, or vendor agreements. These teams
+review contracts manually today — a slow, inconsistent process that scales poorly
+and depends heavily on individual reviewer expertise.
+
+## The Workflow Problem
+
+Manual contract review creates two compounding risks: **missed obligations** (recurring
+fees, escalation clauses, contingent penalties) and **inconsistent routing** (knowing
+whether a contract needs a lawyer, a finance sign-off, or just a clarification before
+it can be approved). Both risks increase with contract volume and reviewer fatigue.
+
+## Where This System Fits
+
+This agent sits at the **contract intake stage** — before human review, not instead of
+it. It produces a structured analysis that tells the reviewer what to focus on, what
+the financial exposure is, and whether legal or finance needs to be involved before
+signing.
+
+The intended workflow is:
+
+1. Contract received → agent runs analysis automatically
+2. Reviewer reads the structured output: obligations, risks, routing decision
+3. Reviewer confirms, overrides, or escalates based on the agent's output
+4. Override patterns feed back into prompt and routing threshold refinement
+
+## Trust-Building Over Time
+
+The system is designed for **human-in-the-loop adoption**, not autonomous approval.
+Trust is built incrementally:
+
+- **Phase 1 — Assisted review:** agent output presented alongside the contract;
+  reviewer makes all final decisions
+- **Phase 2 — Calibrated routing:** after tracking override rates per routing
+  decision type, thresholds are tuned to match team judgment
+- **Phase 3 — Selective automation:** low-risk, high-confidence `approve` decisions
+  are processed without full manual review; all others retain human sign-off
+
+The evaluation results in this README reflect Phase 1 performance — the system
+surfaces relevant obligations and flags blocking risks, with known gaps in precision
+that calibration and retrieval improvements would address.
+
+---
+
 # Project Overview
 
 Enterprise contracts often contain recurring obligations, escalation clauses, penalties, renewal terms, and ambiguous financial conditions that are difficult to review manually.
