@@ -1,0 +1,32 @@
+{
+    "contract_id": "contract_02",
+    "source_file": "sample_data/Sample_Lease_2.txt",
+    "notes": "Equipment lease agreement between Farnam Street Financial, Inc. and Serve Robotics Inc. for autonomous sidewalk delivery robots.",
+    "expected_routing_decision": "legal_review",
+    "expected_payment_obligations": [
+      {
+        "description": "Base rent",
+        "amount": 176073.8,
+        "currency": "USD",
+        "is_recurring": true
+      },
+      {
+        "description": "Security deposit",
+        "amount": 352147.60,
+        "currency": "USD",
+        "is_recurring": false
+      },
+      {
+        "description": "Optional expansion",
+        "amount": 19200000,
+        "currency": "USD",
+        "is_recurring": false
+      }
+    ],
+    "expected_blocking_risks": [
+      "Missing payment due dates",
+      "Undetermined Late Charge Amount",
+      "Taxes payable undefined",
+      "Casualty Loss Value Undefined"
+    ]
+  }

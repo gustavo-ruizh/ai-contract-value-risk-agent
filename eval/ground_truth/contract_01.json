@@ -1,0 +1,62 @@
+{
+    "contract_id": "contract_01",
+    "source_file": "sample_data/Sample_Lease_1.txt",
+    "notes": "Commercial lease agreement between Temple CB, LLC, and Okra Energy, Inc. for a real property, together with all improvements thereon",
+    "expected_routing_decision": "legal_review",
+    "expected_payment_obligations": [
+      {
+        "description": "Security deposit",
+        "amount": 20000,
+        "currency": "USD",
+        "is_recurring": false
+      },
+      {
+        "description": "Monthly rent (Initial Period of December 1, 2013 to May 31, 2014)",
+        "amount": 0,
+        "currency": "USD",
+        "is_recurring": true
+      },
+      {
+        "description": "Monthly rent (June 1, 2014 to May 31, 2015)",
+        "amount": 30000,
+        "currency": "USD",
+        "is_recurring": true
+      },
+      {
+        "description": "Monthly rent (June 1, 2015 to May 31, 2016)",
+        "amount": 40000,
+        "currency": "USD",
+        "is_recurring": true
+      },
+      {
+        "description": "Monthly rent (June 1, 2016 to May 31, 2017)",
+        "amount": 50000,
+        "currency": "USD",
+        "is_recurring": true
+      },
+      {
+        "description": "Monthly rent (June 1, 2017 to May 31, 2018)",
+        "amount": 60000,
+        "currency": "USD",
+        "is_recurring": true
+      },
+      {
+        "description": "June 1, 2019 to May 31, 2020)",
+        "amount": 70000,
+        "currency": "USD",
+        "is_recurring": true
+      },
+      {
+        "description": "Purchase option",
+        "amount": 3000000,
+        "currency": "USD",
+        "is_recurring": false
+      }
+    ],
+    "expected_blocking_risks": [
+      "Missing payment due dates",
+      "Renewal conditions undefined",
+      "Taxes payable undefined",
+      "Late fee amounts missing"
+    ]
+  }

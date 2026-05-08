@@ -1,0 +1,1390 @@
+{
+  "contract_id": "demo-016",
+  "intake": {
+    "contract_id": "demo-016",
+    "profile": {
+      "contract_type": "lease",
+      "parties": [
+        {
+          "name": "Farnam Street Financial, Inc.",
+          "role": "landlord",
+          "evidence": null
+        },
+        {
+          "name": "Serve Robotics Inc.",
+          "role": "tenant",
+          "evidence": null
+        }
+      ],
+      "effective_date": "2022-06-06",
+      "commencement_date": "2022-10-01",
+      "expiration_date": "2024-09-30",
+      "term": null,
+      "governing_law": "Minnesota",
+      "summary": "Farnam Street Financial, Inc. leases autonomous sidewalk delivery robots to Serve Robotics Inc. under a 24-month equipment lease with a base monthly charge of $176,073.80 and an optional expansion increasing the total equipment commitment to $19,200,000.",
+      "confidence": "high"
+    },
+    "sections": [
+      {
+        "section_id": "s1",
+        "title": "Lease Term",
+        "content": "The lease commences on the Installation Date and continues for the Initial Term specified in each Lease Schedule, auto-renewing year to year unless terminated by either party with 90 days written notice.",
+        "page": 1
+      },
+      {
+        "section_id": "s2",
+        "title": "Commencement Date",
+        "content": "The Commencement Date is the first of the month following installation of all equipment on a Lease Schedule, triggered by Lessee's written acceptance via a Certificate of Acceptance.",
+        "page": 1
+      },
+      {
+        "section_id": "s3",
+        "title": "Lease Charge",
+        "content": "Lessee must pay monthly lease charges in advance, with late payments subject to a 1.5% per month late fee on overdue amounts.",
+        "page": 1
+      },
+      {
+        "section_id": "s4",
+        "title": "Taxes",
+        "content": "Lessee is responsible for reimbursing Lessor for all taxes related to the equipment, including sales, use, rental, gross receipts, and personal property taxes, but excluding taxes on Lessor's net income or franchise taxes.",
+        "page": 2
+      },
+      {
+        "section_id": "s5",
+        "title": "Delivery and Freight Costs",
+        "content": "All transportation, rigging, drayage, and installation costs to deliver and place the equipment at the designated location are the sole responsibility of Lessee.",
+        "page": 2
+      },
+      {
+        "section_id": "s6",
+        "title": "Installation",
+        "content": "Lessee is responsible for all installation costs, including providing suitable facilities, electrical power, and supplies required to operate the equipment.",
+        "page": 2
+      },
+      {
+        "section_id": "s7",
+        "title": "Return to Lessor",
+        "content": "At lease end, Lessee must deinstall, pack, and ship all equipment to Lessor's designated continental U.S. location at Lessee's expense within 10 days of the Return Date, bearing risk of damage until delivery.",
+        "page": 2
+      },
+      {
+        "section_id": "s8",
+        "title": "Maintenance",
+        "content": "Lessee must maintain all equipment in good working order at its sole expense, either through self-maintenance or a manufacturer-approved maintenance agreement, and warrants the equipment will meet manufacturer specifications upon return.",
+        "page": 3
+      },
+      {
+        "section_id": "s9",
+        "title": "Location, Ownership and Use",
+        "content": "All equipment remains the sole and exclusive property of Lessor at all times, and Lessee may not pledge, sublease, transfer, or remove equipment without Lessor's prior written consent.",
+        "page": 3
+      },
+      {
+        "section_id": "s10",
+        "title": "Financing Statement",
+        "content": "Lessee authorizes Lessor to file UCC Financing Statements and other instruments to publicly record Lessor's ownership interest in the equipment.",
+        "page": 3
+      },
+      {
+        "section_id": "s11",
+        "title": "Alterations and Attachments",
+        "content": "Lessee may make minor alterations with prior written notice to Lessor, but all hardware alterations become Lessor's property, and Lessee must reverse any alterations that reduce equipment value or create safety hazards.",
+        "page": 3
+      },
+      {
+        "section_id": "s12",
+        "title": "Loss and Damage",
+        "content": "Lessee bears all risk of loss, theft, or damage to equipment regardless of cause, and must pay the Casualty Loss Value (100% of original cost during the first 9 months, thereafter amortized) upon any irreparable loss.",
+        "page": 4
+      },
+      {
+        "section_id": "s13",
+        "title": "Insurance",
+        "content": "Lessee must maintain property/casualty insurance for the Casualty Loss Value and comprehensive public liability insurance naming Lessor as loss payee, with an insurer rated at least A by A.M. Best.",
+        "page": 4
+      },
+      {
+        "section_id": "s14",
+        "title": "Enforcement of Warranties",
+        "content": "Lessor will take reasonable action to enforce manufacturer warranties upon Lessee's written request, and Lessee will do the same upon Lessor's request, with the requesting party responsible for litigation expenses.",
+        "page": 4
+      },
+      {
+        "section_id": "s15",
+        "title": "Warranties, Disclaimers and Indemnity",
+        "content": "Lessor makes no express or implied warranties regarding the equipment, excludes all consequential and special damages, and Lessee must indemnify and defend Lessor against all third-party claims arising from the equipment's use or condition.",
+        "page": 5
+      },
+      {
+        "section_id": "s16",
+        "title": "Event of Default",
+        "content": "Default events include non-payment, breach of lease terms, unauthorized equipment transfer, insolvency or bankruptcy, change of control exceeding 50% without consent, material misrepresentation, and cross-default on obligations over $1,000,000.",
+        "page": 5
+      },
+      {
+        "section_id": "s17",
+        "title": "Remedies",
+        "content": "Upon default, Lessor may accelerate all lease charges, repossess equipment, terminate Lessee's rights, recover the Casualty Loss Value, and pursue any legal or equitable remedy, with all remedies cumulative and non-exclusive.",
+        "page": 6
+      },
+      {
+        "section_id": "s18",
+        "title": "Costs and Attorneys' Fees",
+        "content": "Lessee must pay all of Lessor's reasonable documented costs, expenses, and attorneys' fees arising from any claim, default, or proceeding related to the lease agreement.",
+        "page": 7
+      },
+      {
+        "section_id": "s19",
+        "title": "Lessor's Performance Option",
+        "content": "If Lessee fails to make payments or perform obligations, Lessor may (but is not obligated to) make payments or take actions to protect the equipment or its title, with all such costs reimbursable by Lessee within 10 days.",
+        "page": 7
+      },
+      {
+        "section_id": "s20",
+        "title": "Quiet Possession and Inspection",
+        "content": "Lessor covenants Lessee's quiet possession of the equipment while not in default, but Lessor retains the right to inspect the equipment at any reasonable time during business hours.",
+        "page": 7
+      },
+      {
+        "section_id": "s21",
+        "title": "Assignments",
+        "content": "Lessee cannot assign the lease or sublet equipment without Lessor's written consent, and any unapproved change of control triggers an obligation to purchase the equipment at the greater of retail value or Casualty Loss Value plus future lease charges.",
+        "page": 8
+      },
+      {
+        "section_id": "s22",
+        "title": "Survival of Obligations",
+        "content": "All covenants, representations, and warranties survive the execution, expiration, or termination of the lease agreement and bind successors and assigns.",
+        "page": 8
+      },
+      {
+        "section_id": "s23",
+        "title": "Corporate Authority",
+        "content": "Both parties warrant that their signatories are duly authorized, and the lease constitutes a valid and binding obligation of each party.",
+        "page": 8
+      },
+      {
+        "section_id": "s24",
+        "title": "Landlords' and Mortgagees' Waiver",
+        "content": "Lessee must use commercially reasonable efforts to obtain access agreements from landlords and mortgagees of premises where equipment is located.",
+        "page": 8
+      },
+      {
+        "section_id": "s25",
+        "title": "Miscellaneous",
+        "content": "The lease is governed by Minnesota law, disputes are subject to Minnesota jurisdiction, jury trial is waived, the agreement is fully integrated, and amendments must be in writing signed by officers of both parties.",
+        "page": 8
+      },
+      {
+        "section_id": "s26",
+        "title": "Repossession",
+        "content": "Lessee expressly waives any right to prior notice or a judicial hearing before Lessor exercises its contractual right of repossession upon default.",
+        "page": 9
+      },
+      {
+        "section_id": "s27",
+        "title": "Net Lease",
+        "content": "This is an absolute net lease and Lessee's payment obligations are unconditional, not subject to any defense, setoff, equipment failure, or dissatisfaction regardless of circumstances.",
+        "page": 9
+      },
+      {
+        "section_id": "s28",
+        "title": "Headings",
+        "content": "Section headings are for convenience only and do not affect the interpretation of any provision of the lease.",
+        "page": 9
+      },
+      {
+        "section_id": "s29",
+        "title": "Lease Schedule No. 001",
+        "content": "The initial lease schedule covers autonomous sidewalk robots with a total equipment cost of $4,200,000, a 24-month term, a monthly lease charge of $176,073.80 (or $788,298.80 with Expansion Option), and a security deposit of $352,147.60.",
+        "page": 11
+      },
+      {
+        "section_id": "s30",
+        "title": "Expansion Option",
+        "content": "During the installation phase, the parties may agree to increase the hardware commitment by $15,000,000 for a total equipment cost of $19,200,000, with corresponding increases to the monthly lease charge and security deposit.",
+        "page": 12
+      },
+      {
+        "section_id": "s31",
+        "title": "Monthly Lease Charge Adjustment Rider",
+        "content": "The monthly lease charge is fixed at execution but will be adjusted upward on the Commencement Date if the 3-year U.S. Treasury rate increases between execution and commencement, after which it is fixed for the term.",
+        "page": 13
+      },
+      {
+        "section_id": "s32",
+        "title": "Right of First Refusal",
+        "content": "Lessee must notify Lessor of any third-party offer to lease robot equipment and give Lessor 5 days to match the offer on identical terms, with a 5% penalty on equipment cost if Lessee bypasses this right.",
+        "page": 14
+      },
+      {
+        "section_id": "s33",
+        "title": "Purchase Option",
+        "content": "Provided no default exists and all charges are paid, Lessee may purchase the equipment at end of the initial term for 40% of original equipment cost (plus taxes) by giving 90 days prior written notice.",
+        "page": 15
+      },
+      {
+        "section_id": "s34",
+        "title": "Incumbency Certificate",
+        "content": "Serve Robotics Inc.'s corporate secretary certifies the identity and authority of designated officers to execute lease documents on behalf of the company.",
+        "page": 16
+      },
+      {
+        "section_id": "s35",
+        "title": "Addendum No. 1",
+        "content": "The parties confirm this is a true lease and not a secured transaction, with Farnam Street Financial retaining full ownership of all equipment, and the UCC filing is solely to make the true lease a matter of public record.",
+        "page": 17
+      }
+    ],
+    "analyzability": "partially_analyzable",
+    "analyzability_notes": "Expiration date derived by adding 24-month Initial Term to projected Commencement Date of October 1, 2022, yielding September 30, 2024; actual Commencement Date depends on installation completion and may shift to May 1, 2023 if Expansion Option is chosen, which would push expiration to April 30, 2025. Specific serial numbers and final equipment list are not included in the contract text.",
+    "confidence": "high"
+  },
+  "payment_obligations": {
+    "contract_id": "demo-016",
+    "obligations": [
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots",
+        "payment_type": "recurring",
+        "frequency": "monthly",
+        "amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": {
+          "start": "2022-10-01",
+          "end": "2024-09-30"
+        },
+        "payer": "Serve Robotics Inc.",
+        "payee": "Farnam Street Financial, Inc.",
+        "conditions": null,
+        "evidence": {
+          "text": "base monthly charge of $176,073.80",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": "Lease Schedule"
+        },
+        "confidence": "high",
+        "is_included_in_base_valuation": true,
+        "valuation_treatment": "include"
+      },
+      {
+        "obligation_id": "p-002",
+        "description": "Late charge on overdue payments at 1.5% (or maximum allowed by law) of past due amount, assessed on the due date and every 30 days thereafter until paid in full",
+        "payment_type": "penalty",
+        "frequency": "irregular",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": "Serve Robotics Inc.",
+        "payee": "Farnam Street Financial, Inc.",
+        "conditions": "Triggered when any payment is not received by Lessor on the due date; assessed at 1.5% or maximum percentage allowed by law of the past due amount, charged every 30 days until paid in full",
+        "evidence": {
+          "text": "If payment, as specified above, is not received by Lessor on the due date, Lessee agrees to and shall, to the extent permitted by law, pay on demand, as a late charge, an amount equal to one and one-half percent (11/2%), or the maximum percentage allowed by law if less, of the amount past due (\"Late Charges\"). Late Charges shall be charged and added to any past due amount on the date such payment is due and every thirty (30) days thereafter until all past due amounts are paid in full to Lessor.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 1,
+          "relevance_score": null,
+          "section": "Late Charges"
+        },
+        "confidence": "high",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-003",
+        "description": "Tax charges assessed in accordance with Section 4 of the Lease Agreement, payable by Lessee to Lessor",
+        "payment_type": "variable",
+        "frequency": "irregular",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": {
+          "start": "2022-10-01",
+          "end": "2024-09-30"
+        },
+        "payer": "Serve Robotics Inc.",
+        "payee": "Farnam Street Financial, Inc.",
+        "conditions": "Payable on the date specified in invoices delivered to Lessee; includes any sales or use tax due on monies received in connection with the Lease Schedule",
+        "evidence": {
+          "text": "Charges for taxes made in accordance with Section 4 and charges made under any other provision of this Lease Agreement and payable by Lessee shall be paid to Lessor at Lessor's address specified on the Lease Schedule(s) on the date specified in invoices delivered to Lessee.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 1,
+          "relevance_score": null,
+          "section": "Section 4"
+        },
+        "confidence": "medium",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-004",
+        "description": "Accrued and unpaid lease charges and other amounts due and owing upon an Event of Default",
+        "payment_type": "contingent",
+        "frequency": "one_time",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": "Serve Robotics Inc.",
+        "payee": "Farnam Street Financial, Inc.",
+        "conditions": "Triggered upon occurrence and continuation of an Event of Default; Lessor may recover all accrued and unpaid Lease Charges and other amounts due and owing as of the date of default",
+        "evidence": {
+          "text": "recover from Lessee all accrued and unpaid Lease Charges and other amounts due and owing on the date of the default",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 6,
+          "relevance_score": null,
+          "section": "Section 17 - Remedies"
+        },
+        "confidence": "high",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-005",
+        "description": "Accelerated present value of all remaining lease charges from date of default to end of lease term, discounted at 3%",
+        "payment_type": "contingent",
+        "frequency": "one_time",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": "Serve Robotics Inc.",
+        "payee": "Farnam Street Financial, Inc.",
+        "conditions": "Triggered upon occurrence and continuation of an Event of Default; Lessor may accelerate and recover present value of all Lease Charges from the date of default to end of lease term using a 3% discount rate",
+        "evidence": {
+          "text": "accelerate, cause to become immediately due and recover the present value of all Lease Charges and other amounts due and/or likely to become due hereunder from the date of the default to the end of the lease term using a discount rate of three (3%) percent",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 6,
+          "relevance_score": null,
+          "section": "Section 17 - Remedies"
+        },
+        "confidence": "high",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-006",
+        "description": "Casualty Loss Value of Equipment upon Event of Default",
+        "payment_type": "contingent",
+        "frequency": "one_time",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": "Serve Robotics Inc.",
+        "payee": "Farnam Street Financial, Inc.",
+        "conditions": "Triggered upon occurrence and continuation of an Event of Default; Lessor may cause the Casualty Loss Value of the Equipment to become immediately due and payable",
+        "evidence": {
+          "text": "cause to become immediately due and payable and recover from Lessee the Casualty Loss Value of the Equipment",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 6,
+          "relevance_score": null,
+          "section": "Section 17 - Remedies"
+        },
+        "confidence": "medium",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-007",
+        "description": "Reasonable and documented out-of-pocket costs, expenses, and attorneys' fees incurred by Lessor in connection with any default, claim, proceeding, arbitration, or legal action arising under the Lease Agreement",
+        "payment_type": "contingent",
+        "frequency": "one_time",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": "Serve Robotics Inc.",
+        "payee": "Farnam Street Financial, Inc.",
+        "conditions": "Triggered in the event of any default, claim, proceeding, arbitration, mediation, counter-claim, or legal action arising out of or related to the Lease Agreement",
+        "evidence": {
+          "text": "shall pay to Lessor, on demand, all reasonable and documented out-of-pocket costs, expenses and fees paid or payable in connection with the Claim, including, but not limited to, reasonable and documented out-of-pocket attorneys' fees and reasonable and documented out-of-pocket costs, including travel and related expenses incurred by Lessor or its attorneys.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 7,
+          "relevance_score": null,
+          "section": "Section 18 - Costs and Attorneys' Fees"
+        },
+        "confidence": "high",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-008",
+        "description": "Reimbursement to Lessor for advances made by Lessor on behalf of Lessee to preserve Equipment, pay insurance premiums, taxes, liens, or other charges when Lessee fails to do so",
+        "payment_type": "contingent",
+        "frequency": "one_time",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": "Serve Robotics Inc.",
+        "payee": "Farnam Street Financial, Inc.",
+        "conditions": "Triggered when Lessee fails to make any payment or perform any act required under the Lease Agreement and Lessor elects to perform such obligation; all sums incurred or expended by Lessor are due and payable by Lessee within ten days",
+        "evidence": {
+          "text": "Should Lessee fail to make any payment or to do any act as provided by this Lease Agreement, then Lessor shall have the right (but not the obligation), without notice to Lessee of its intention to do so and without releasing Lessee from any obligation hereunder to make or to do the same, to make advances to preserve the Equipment or Lessor's title thereto, and to pay, purchase, contest or compromise any insurance premium, encumbrance, charge, tax, lien or other sum which in the judgment of Lessor appears to affect the Equipment... All sums so incurred or expended by Lessor shall be due and payable by Lessee within ten",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 7,
+          "relevance_score": null,
+          "section": "Section 19 - Lessor's Performance Option"
+        },
+        "confidence": "medium",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-009",
+        "description": "Purchase option payment for Equipment at end of lease term, net of all rent, taxes, security deposits, and other monthly lease charges already retained by Lessor",
+        "payment_type": "milestone",
+        "frequency": "one_time",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": "Serve Robotics Inc.",
+        "payee": "Farnam Street Financial, Inc.",
+        "conditions": "Optional; triggered only if Lessee elects to exercise the purchase option at end of lease term; purchase price excludes late fees; any unpaid sales or use tax added to purchase price; Lessee waives right to offset retained monies against purchase price",
+        "evidence": {
+          "text": "Lessor shall retain as income all monies received in association with the Lease Schedule including all rent, taxes, security deposits and other monthly lease charges and Lessee hereby waives any right to offset these monies against the costs associated with the exercise of this purchase option. Any sales or use tax due and not paid on these monies shall be added to the purchase price above.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 15,
+          "relevance_score": null,
+          "section": "Purchase Option"
+        },
+        "confidence": "medium",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "exclude"
+      },
+      {
+        "obligation_id": "p-010",
+        "description": "Optional expansion of equipment commitment increasing total equipment commitment to $19,200,000",
+        "payment_type": "variable",
+        "frequency": "irregular",
+        "amount": {
+          "amount": 19200000,
+          "currency": "USD"
+        },
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": "Serve Robotics Inc.",
+        "payee": "Farnam Street Financial, Inc.",
+        "conditions": "Optional expansion; only triggered if Lessee exercises expansion option increasing total equipment commitment to $19,200,000; specific monthly charge for expanded commitment not stated in retrieved passages",
+        "evidence": {
+          "text": "an optional expansion increasing the total equipment commitment to $19,200,000",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": null
+        },
+        "confidence": "low",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "exclude"
+      }
+    ],
+    "extraction_issues": [
+      {
+        "issue_id": "i-001",
+        "description": "The purchase option price for the Equipment at end of lease term is not specified in the retrieved passages; only the framework for calculating it (excluding late fees, retaining all prior payments, adding unpaid taxes) is described.",
+        "severity": "warning",
+        "related_section": "Purchase Option"
+      },
+      {
+        "issue_id": "i-002",
+        "description": "The specific monthly lease charge applicable to the optional expansion (total commitment $19,200,000) is not stated in the retrieved passages; only the aggregate commitment amount is referenced in the contract summary.",
+        "severity": "warning",
+        "related_section": "Lease Schedule - Expansion Option"
+      },
+      {
+        "issue_id": "i-003",
+        "description": "The Casualty Loss Value definition and calculation methodology are not included in the retrieved passages, making it impossible to quantify this contingent obligation.",
+        "severity": "warning",
+        "related_section": "Section 17 - Remedies"
+      },
+      {
+        "issue_id": "i-004",
+        "description": "Section 4 governing tax obligations is not included in the retrieved passages; the nature, basis, and rate of applicable taxes cannot be determined from the available text.",
+        "severity": "warning",
+        "related_section": "Section 4"
+      },
+      {
+        "issue_id": "i-005",
+        "description": "The reimbursement period for Lessor's performance option advances is truncated in the retrieved passage (ends with 'within ten'); the full cure period (likely 10 days) cannot be confirmed from the available text.",
+        "severity": "warning",
+        "related_section": "Section 19 - Lessor's Performance Option"
+      }
+    ],
+    "uncertainty_flags": [
+      "ambiguous_amount",
+      "missing_payment_dates"
+    ],
+    "confidence": "medium"
+  },
+  "contract_value": {
+    "contract_id": "demo-016",
+    "total_nominal_value": {
+      "amount": 4225771.2,
+      "currency": "USD"
+    },
+    "total_present_value": {
+      "amount": 4106770.74,
+      "currency": "USD"
+    },
+    "payment_schedule": [
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 1)",
+        "payment_date": "2022-10-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 0
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 2)",
+        "payment_date": "2022-11-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 175634.71,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 1
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 3)",
+        "payment_date": "2022-12-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 175196.72,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 2
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 4)",
+        "payment_date": "2023-01-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 174759.82,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 3
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 5)",
+        "payment_date": "2023-02-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 174324.01,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 4
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 6)",
+        "payment_date": "2023-03-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 173889.29,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 5
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 7)",
+        "payment_date": "2023-04-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 173455.65,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 6
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 8)",
+        "payment_date": "2023-05-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 173023.09,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 7
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 9)",
+        "payment_date": "2023-06-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 172591.61,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 8
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 10)",
+        "payment_date": "2023-07-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 172161.21,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 9
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 11)",
+        "payment_date": "2023-08-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 171731.88,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 10
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 12)",
+        "payment_date": "2023-09-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 171303.62,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 11
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 13)",
+        "payment_date": "2023-10-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 170876.43,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 12
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 14)",
+        "payment_date": "2023-11-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 170450.3,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 13
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 15)",
+        "payment_date": "2023-12-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 170025.24,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 14
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 16)",
+        "payment_date": "2024-01-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 169601.24,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 15
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 17)",
+        "payment_date": "2024-02-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 169178.29,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 16
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 18)",
+        "payment_date": "2024-03-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 168756.4,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 17
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 19)",
+        "payment_date": "2024-04-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 168335.56,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 18
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 20)",
+        "payment_date": "2024-05-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 167915.77,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 19
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 21)",
+        "payment_date": "2024-06-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 167497.03,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 20
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 22)",
+        "payment_date": "2024-07-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 167079.33,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 21
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 23)",
+        "payment_date": "2024-08-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 166662.68,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 22
+      },
+      {
+        "obligation_id": "p-001",
+        "description": "Base monthly lease charge for autonomous sidewalk delivery robots (period 24)",
+        "payment_date": "2024-09-01",
+        "nominal_amount": {
+          "amount": 176073.8,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 166247.06,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 23
+      }
+    ],
+    "assumptions": [
+      {
+        "assumption_id": "assume-conditional-p-002",
+        "description": "Conditional obligation 'Late charge on overdue payments at 1.5% (or maximum allowed by law) of past due amount, assessed on the due date and every 30 days thereafter until paid in full' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      },
+      {
+        "assumption_id": "assume-conditional-p-003",
+        "description": "Conditional obligation 'Tax charges assessed in accordance with Section 4 of the Lease Agreement, payable by Lessee to Lessor' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      },
+      {
+        "assumption_id": "assume-conditional-p-004",
+        "description": "Conditional obligation 'Accrued and unpaid lease charges and other amounts due and owing upon an Event of Default' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      },
+      {
+        "assumption_id": "assume-conditional-p-005",
+        "description": "Conditional obligation 'Accelerated present value of all remaining lease charges from date of default to end of lease term, discounted at 3%' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      },
+      {
+        "assumption_id": "assume-conditional-p-006",
+        "description": "Conditional obligation 'Casualty Loss Value of Equipment upon Event of Default' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      },
+      {
+        "assumption_id": "assume-conditional-p-007",
+        "description": "Conditional obligation 'Reasonable and documented out-of-pocket costs, expenses, and attorneys' fees incurred by Lessor in connection with any default, claim, proceeding, arbitration, or legal action arising under the Lease Agreement' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      },
+      {
+        "assumption_id": "assume-conditional-p-008",
+        "description": "Conditional obligation 'Reimbursement to Lessor for advances made by Lessor on behalf of Lessee to preserve Equipment, pay insurance premiums, taxes, liens, or other charges when Lessee fails to do so' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      }
+    ],
+    "warnings": [
+      {
+        "warning_id": "warn-no-amount-p-002",
+        "description": "No amount for obligation 'Late charge on overdue payments at 1.5% (or maximum allowed by law) of past due amount, assessed on the due date and every 30 days thereafter until paid in full'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-002"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-003",
+        "description": "No amount for obligation 'Tax charges assessed in accordance with Section 4 of the Lease Agreement, payable by Lessee to Lessor'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-003"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-004",
+        "description": "No amount for obligation 'Accrued and unpaid lease charges and other amounts due and owing upon an Event of Default'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-004"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-005",
+        "description": "No amount for obligation 'Accelerated present value of all remaining lease charges from date of default to end of lease term, discounted at 3%'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-005"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-006",
+        "description": "No amount for obligation 'Casualty Loss Value of Equipment upon Event of Default'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-006"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-007",
+        "description": "No amount for obligation 'Reasonable and documented out-of-pocket costs, expenses, and attorneys' fees incurred by Lessor in connection with any default, claim, proceeding, arbitration, or legal action arising under the Lease Agreement'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-007"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-008",
+        "description": "No amount for obligation 'Reimbursement to Lessor for advances made by Lessor on behalf of Lessee to preserve Equipment, pay insurance premiums, taxes, liens, or other charges when Lessee fails to do so'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-008"
+        ]
+      }
+    ],
+    "uncertainty_flags": [
+      "ambiguous_amount",
+      "missing_payment_dates",
+      "conditional_obligation:p-002",
+      "missing_amount:p-002",
+      "conditional_obligation:p-003",
+      "missing_amount:p-003",
+      "conditional_obligation:p-004",
+      "missing_amount:p-004",
+      "conditional_obligation:p-005",
+      "missing_amount:p-005",
+      "conditional_obligation:p-006",
+      "missing_amount:p-006",
+      "conditional_obligation:p-007",
+      "missing_amount:p-007",
+      "conditional_obligation:p-008",
+      "missing_amount:p-008"
+    ],
+    "confidence": "low"
+  },
+  "risk_assessment": {
+    "contract_id": "demo-016",
+    "risks": [
+      {
+        "risk_id": "r-001",
+        "title": "Missing Payment Due Dates for Base Monthly Charge",
+        "description": "The base monthly lease charge of $176,073.80 (obligation p-001) lacks explicit due dates. While the date range is 2022-10-01 to 2024-09-30, the specific day-of-month payment is due is not stated, creating ambiguity in cash flow timing, late charge trigger points, and default determination.",
+        "category": "financial",
+        "severity": "high",
+        "evidence": {
+          "text": "to be paid by Lessee which non-payment continues for a period of ten (10) days from the date when due",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 5,
+          "relevance_score": null,
+          "section": "Event of Default"
+        },
+        "mitigation": "Confirm specific monthly due date from full lease schedule; amend contract or obtain written confirmation of payment date.",
+        "is_blocking": true,
+        "risk_priority_score": 130
+      },
+      {
+        "risk_id": "r-002",
+        "title": "Undetermined Late Charge Amount (Compounding Penalty)",
+        "description": "Late charges on overdue payments (obligation p-002) are assessed at 1.5% of past-due amounts every 30 days until paid in full, but no dollar amount is stated. Given the $176,073.80 monthly base, a single missed payment could accrue approximately $2,641/month in late charges, compounding indefinitely. The alternative cap of 'maximum allowed by law' introduces jurisdictional uncertainty.",
+        "category": "financial",
+        "severity": "high",
+        "evidence": {
+          "text": "Late charge on overdue payments at 1.5% (or maximum allowed by law) of past due amount, assessed on the due date and every 30 days thereafter until paid in full",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": "Late Charges"
+        },
+        "mitigation": "Model worst-case compounding scenario; identify governing jurisdiction to determine applicable usury or late-fee caps; negotiate a maximum cumulative cap on late charges.",
+        "is_blocking": false,
+        "risk_priority_score": 30
+      },
+      {
+        "risk_id": "r-003",
+        "title": "Unquantified Tax Obligations (Variable Cost Exposure)",
+        "description": "Tax charges under Section 4 (obligation p-003) are payable by the lessee but have no stated amount, rate, or cap. Sales and use taxes on $176,073.80/month across multiple jurisdictions where robots operate could add materially to total cost. The amount is flagged as ambiguous and the confidence is medium, preventing reliable valuation.",
+        "category": "compliance",
+        "severity": "high",
+        "evidence": {
+          "text": "Charges for taxes made in accordance with Section 4 and charges made under any other provision of this Lease Agreement and payable by Lessee shall b",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 1,
+          "relevance_score": null,
+          "section": "Section 4"
+        },
+        "mitigation": "Obtain full text of Section 4; quantify applicable sales/use tax rates in all operating jurisdictions; model tax exposure and include in total cost of ownership analysis.",
+        "is_blocking": true,
+        "risk_priority_score": 130
+      },
+      {
+        "risk_id": "r-004",
+        "title": "Accelerated Payment Upon Default – Full Remaining Term Liability",
+        "description": "Upon an Event of Default, the lessor may accelerate all remaining lease charges for the full term (obligation p-005), discounted at only 3%. For a default occurring at lease inception, this could represent up to approximately $4,225,771 in present-value liability (24 months × $176,073.80, discounted at 3%). This is an unconditional acceleration clause with limited lessee protection.",
+        "category": "financial",
+        "severity": "critical",
+        "evidence": {
+          "text": "Accelerated present value of all remaining lease charges from date of default to end of lease term, discounted at 3%",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": "Default Remedies"
+        },
+        "mitigation": "Negotiate cure periods before acceleration triggers; ensure adequate liquidity reserves; consider whether early termination provisions exist to limit exposure.",
+        "is_blocking": false,
+        "risk_priority_score": 40
+      },
+      {
+        "risk_id": "r-005",
+        "title": "Casualty Loss Value Undefined – Unquantified Default Exposure",
+        "description": "Upon an Event of Default, the Casualty Loss Value of Equipment becomes immediately due and payable (obligation p-006), but this value is not defined or quantified in the retrieved passages. Given total equipment commitment up to $19,200,000, this could represent the single largest contingent liability, yet it cannot be reliably valued.",
+        "category": "financial",
+        "severity": "critical",
+        "evidence": {
+          "text": "Casualty Loss Value of Equipment upon Event of Default",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": "Default Remedies"
+        },
+        "mitigation": "Obtain full definition and schedule of Casualty Loss Values from lease agreement; model maximum exposure scenario against available liquid assets.",
+        "is_blocking": true,
+        "risk_priority_score": 140
+      },
+      {
+        "risk_id": "r-006",
+        "title": "Absolute and Unconditional Payment Obligation – No Offset or Abatement Rights",
+        "description": "The lease explicitly states that lessee's obligations to pay all Lease Charges are absolute and unconditional, with no right to offset, abatement, or withholding. This means equipment failure, non-performance of robots, or lessor breach does not excuse payment, creating significant operational and financial risk if the autonomous delivery robots underperform.",
+        "category": "legal",
+        "severity": "critical",
+        "evidence": {
+          "text": "lease and Lessee's obligations to pay all Lease Charges and other amounts payable hereunder shall be absolute and unconditional and, except as expressly provided herein, shall not be subject to any:",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 9,
+          "relevance_score": null,
+          "section": "Unconditional Obligation"
+        },
+        "mitigation": "Negotiate performance warranties or service level agreements with the lessor; obtain equipment performance insurance; ensure operational due diligence on robot reliability before commitment.",
+        "is_blocking": false,
+        "risk_priority_score": 40
+      },
+      {
+        "risk_id": "r-007",
+        "title": "Broad Event of Default Triggers Including Misrepresentation",
+        "description": "Events of Default include any material misrepresentation in financial or credit information provided in connection with the lease. Given Serve Robotics' status as an emerging-growth company with uncertain financials, any retrospective finding of materially misleading statements could trigger default and all associated acceleration remedies.",
+        "category": "legal",
+        "severity": "high",
+        "evidence": {
+          "text": "agreement, statement, certificate, financial or credit information provided in connection herewith are false or misleading in any material respect when made",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 6,
+          "relevance_score": null,
+          "section": "Event of Default"
+        },
+        "mitigation": "Conduct thorough review of all representations made at lease inception; obtain legal opinion on materiality thresholds; maintain accurate and contemporaneous financial disclosures.",
+        "is_blocking": false,
+        "risk_priority_score": 30
+      },
+      {
+        "risk_id": "r-008",
+        "title": "Optional Expansion to $19,200,000 – Unquantified Monthly Charge",
+        "description": "The optional expansion (obligation p-010) increases total equipment commitment to $19,200,000 but the monthly charge for the expanded fleet is not stated in any retrieved passage. If exercised, this commitment is approximately 9x the base equipment value, representing an enormous contingent liability with low confidence in valuation.",
+        "category": "financial",
+        "severity": "high",
+        "evidence": {
+          "text": "Optional expansion of equipment commitment increasing total equipment commitment to $19,200,000",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": "Expansion Option"
+        },
+        "mitigation": "Obtain full expansion option terms including monthly charge schedule before any exercise decision; model cash flow impact of expansion at multiple utilization scenarios.",
+        "is_blocking": true,
+        "risk_priority_score": 130
+      },
+      {
+        "risk_id": "r-009",
+        "title": "Counterparty Credit Risk – Serve Robotics as Lessee",
+        "description": "Serve Robotics Inc. is an early-stage autonomous delivery robotics company with uncertain revenue. The total committed base lease obligation over 24 months is approximately $4,225,771. Any revenue shortfall, customer contract termination, or regulatory restriction on sidewalk robots could impair Serve Robotics' ability to meet payment obligations, triggering default and acceleration.",
+        "category": "counterparty",
+        "severity": "high",
+        "evidence": {
+          "text": "Base monthly lease charge for autonomous sidewalk delivery robots",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Monitor Serve Robotics' financial condition quarterly; require financial reporting covenants; consider requiring a guarantee or letter of credit; assess regulatory landscape for autonomous sidewalk robots.",
+        "is_blocking": false,
+        "risk_priority_score": 30
+      },
+      {
+        "risk_id": "r-010",
+        "title": "High Concentration – Single Counterparty and Single Asset Class",
+        "description": "The entire lease is concentrated in one counterparty (Serve Robotics) and one asset class (autonomous sidewalk delivery robots). Robots are a novel asset class with limited secondary market liquidity, making recovery of Casualty Loss Value or re-leasing upon default uncertain. Lessor's ability to mitigate losses is highly dependent on niche market conditions.",
+        "category": "operational",
+        "severity": "high",
+        "evidence": {
+          "text": "Lessor shall retain as income all monies received in association with the Lease Schedule including all rent, taxes, security deposits and other monthly lease charges and Lessee hereby waive",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 15,
+          "relevance_score": null,
+          "section": "Purchase Option / Lease Termination"
+        },
+        "mitigation": "Assess secondary market for autonomous delivery robots; ensure lessor has repossession and re-deployment rights; consider diversifying equipment portfolio.",
+        "is_blocking": false,
+        "risk_priority_score": 30
+      },
+      {
+        "risk_id": "r-011",
+        "title": "Regulatory Risk – Autonomous Sidewalk Robot Operations",
+        "description": "Autonomous sidewalk delivery robots are subject to evolving local, state, and federal regulations. Regulatory restrictions or outright bans in operating jurisdictions could render the leased equipment unusable, yet the absolute and unconditional payment clause means lease charges continue regardless. This creates a scenario where Serve Robotics pays for equipment it cannot legally operate.",
+        "category": "compliance",
+        "severity": "high",
+        "evidence": {
+          "text": "lease and Lessee's obligations to pay all Lease Charges and other amounts payable hereunder shall be absolute and unconditional",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 9,
+          "relevance_score": null,
+          "section": "Unconditional Obligation"
+        },
+        "mitigation": "Conduct regulatory risk assessment across all planned operating jurisdictions; negotiate force majeure or regulatory change provisions; consider lobbying or advocacy strategy for favorable regulation.",
+        "is_blocking": false,
+        "risk_priority_score": 30
+      },
+      {
+        "risk_id": "r-012",
+        "title": "Lessor's Right to Advance on Lessee's Behalf – Unquantified Reimbursement Exposure",
+        "description": "If Serve Robotics fails to pay insurance, taxes, liens, or other charges, Farnam Street Financial may advance such amounts and require reimbursement within 10 days (obligation p-008). The amount is unquantified and could include insurance premiums for a fleet valued up to $19,200,000, representing significant unplanned cash outflows.",
+        "category": "financial",
+        "severity": "medium",
+        "evidence": {
+          "text": "Reimbursement to Lessor for advances made by Lessor on behalf of Lessee to preserve Equipment, pay insurance premiums, taxes, liens, or other charges when Lessee fails to do so",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": "Lessor's Right to Perform"
+        },
+        "mitigation": "Maintain current insurance and tax payment schedules; automate payment reminders; ensure treasury has liquidity buffer for unexpected 10-day reimbursement demands.",
+        "is_blocking": false,
+        "risk_priority_score": 20
+      },
+      {
+        "risk_id": "r-013",
+        "title": "Attorney's Fees and Litigation Cost Exposure",
+        "description": "Lessee bears all reasonable and documented out-of-pocket costs, attorney's fees, and expenses incurred by lessor in any default, claim, arbitration, or legal action (obligation p-007). In complex equipment finance disputes involving novel technology, legal costs could be substantial and are entirely unquantified.",
+        "category": "legal",
+        "severity": "medium",
+        "evidence": {
+          "text": "Reasonable and documented out-of-pocket costs, expenses, and attorneys' fees incurred by Lessor in connection with any default, claim, proceeding, arbitration, or legal action arising under the Lease Agreement",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": "Costs and Expenses"
+        },
+        "mitigation": "Negotiate a cap on recoverable attorney's fees; include mandatory mediation before arbitration or litigation; maintain robust compliance to minimize dispute likelihood.",
+        "is_blocking": false,
+        "risk_priority_score": 20
+      },
+      {
+        "risk_id": "r-014",
+        "title": "Purchase Option – Ambiguous Pricing and Waiver of Offset Rights",
+        "description": "The purchase option (obligation p-009) has no stated price. The lease specifies that all retained monies (rent, taxes, security deposits) are income to the lessor and lessee waives any right to offset these against the purchase price. This asymmetric structure could result in lessee paying full market value at end of term despite 24 months of lease payments.",
+        "category": "financial",
+        "severity": "medium",
+        "evidence": {
+          "text": "Lessor shall retain as income all monies received in association with the Lease Schedule including all rent, taxes, security deposits and other monthly lease charges and Lessee hereby waive",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 15,
+          "relevance_score": null,
+          "section": "Purchase Option"
+        },
+        "mitigation": "Obtain full purchase option pricing schedule before lease execution; model total cost of ownership for purchase vs. return scenarios; negotiate fair market value or fixed-price purchase option.",
+        "is_blocking": false,
+        "risk_priority_score": 20
+      },
+      {
+        "risk_id": "r-015",
+        "title": "Short Cure Period for Non-Payment Default (10 Days)",
+        "description": "The Event of Default is triggered when non-payment continues for only 10 days from the due date. Given the complexity of autonomous robot operations and potential banking or treasury delays, a 10-day cure window is extremely tight and increases the probability of inadvertent default triggering full acceleration remedies.",
+        "category": "operational",
+        "severity": "medium",
+        "evidence": {
+          "text": "to be paid by Lessee which non-payment continues for a period of ten (10) days from the date when due",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 5,
+          "relevance_score": null,
+          "section": "Event of Default"
+        },
+        "mitigation": "Implement automated payment systems with advance notice triggers; negotiate extension of cure period to 30 days; maintain a dedicated reserve account for lease payments.",
+        "is_blocking": false,
+        "risk_priority_score": 20
+      }
+    ],
+    "overall_risk_level": "critical",
+    "uncertainty_flags": [
+      "ambiguous_amount",
+      "missing_payment_dates",
+      "conditional_obligation:p-002",
+      "missing_amount:p-002",
+      "conditional_obligation:p-003",
+      "missing_amount:p-003",
+      "conditional_obligation:p-004",
+      "missing_amount:p-004",
+      "conditional_obligation:p-005",
+      "missing_amount:p-005",
+      "conditional_obligation:p-006",
+      "missing_amount:p-006",
+      "conditional_obligation:p-007",
+      "missing_amount:p-007",
+      "conditional_obligation:p-008",
+      "missing_amount:p-008"
+    ],
+    "confidence": "medium"
+  },
+  "review_decision": {
+    "contract_id": "demo-016",
+    "decision": "legal_review",
+    "rationale": "Contract has 4 blocking risk(s) including legal or compliance issues. Legal review is required before proceeding.",
+    "follow_up_questions": [
+      {
+        "question_id": "q-001",
+        "question": "Regarding risk 'Casualty Loss Value Undefined – Unquantified Default Exposure': This is a blocking issue — Upon an Event of Default, the Casualty Loss Value of Equipment becomes immediately due and payable (obligation p-006), but this value is not defined or quantified in the retrieved passages. Given total equipment commitment up to $19,200,000, this could represent the single largest contingent liability, yet it cannot be reliably valued. How should this be resolved before approval?",
+        "target_audience": "finance",
+        "related_risk_id": "r-005"
+      },
+      {
+        "question_id": "q-002",
+        "question": "Regarding risk 'Missing Payment Due Dates for Base Monthly Charge': This is a blocking issue — The base monthly lease charge of $176,073.80 (obligation p-001) lacks explicit due dates. While the date range is 2022-10-01 to 2024-09-30, the specific day-of-month payment is due is not stated, creating ambiguity in cash flow timing, late charge trigger points, and default determination. How should this be resolved before approval?",
+        "target_audience": "finance",
+        "related_risk_id": "r-001"
+      },
+      {
+        "question_id": "q-003",
+        "question": "Regarding risk 'Unquantified Tax Obligations (Variable Cost Exposure)': This is a blocking issue — Tax charges under Section 4 (obligation p-003) are payable by the lessee but have no stated amount, rate, or cap. Sales and use taxes on $176,073.80/month across multiple jurisdictions where robots operate could add materially to total cost. The amount is flagged as ambiguous and the confidence is medium, preventing reliable valuation. How should this be resolved before approval?",
+        "target_audience": "legal",
+        "related_risk_id": "r-003"
+      },
+      {
+        "question_id": "q-004",
+        "question": "Regarding risk 'Optional Expansion to $19,200,000 – Unquantified Monthly Charge': This is a blocking issue — The optional expansion (obligation p-010) increases total equipment commitment to $19,200,000 but the monthly charge for the expanded fleet is not stated in any retrieved passage. If exercised, this commitment is approximately 9x the base equipment value, representing an enormous contingent liability with low confidence in valuation. How should this be resolved before approval?",
+        "target_audience": "finance",
+        "related_risk_id": "r-008"
+      },
+      {
+        "question_id": "q-005",
+        "question": "Regarding risk 'Accelerated Payment Upon Default – Full Remaining Term Liability': This is a critical risk — Upon an Event of Default, the lessor may accelerate all remaining lease charges for the full term (obligation p-005), discounted at only 3%. For a default occurring at lease inception, this could represent up to approximately $4,225,771 in present-value liability (24 months × $176,073.80, discounted at 3%). This is an unconditional acceleration clause with limited lessee protection. What mitigations are in place?",
+        "target_audience": "finance",
+        "related_risk_id": "r-004"
+      }
+    ],
+    "decision_factors": [
+      "4 blocking risk(s) with legal/compliance exposure"
+    ],
+    "decision_uncertainty_flags": [
+      "ambiguous_amount",
+      "missing_payment_dates",
+      "conditional_obligation:p-002",
+      "missing_amount:p-002",
+      "conditional_obligation:p-003",
+      "missing_amount:p-003",
+      "conditional_obligation:p-004",
+      "missing_amount:p-004",
+      "conditional_obligation:p-005",
+      "missing_amount:p-005",
+      "conditional_obligation:p-006",
+      "missing_amount:p-006",
+      "conditional_obligation:p-007",
+      "missing_amount:p-007",
+      "conditional_obligation:p-008",
+      "missing_amount:p-008",
+      "has_blocking_risks",
+      "has_critical_risks"
+    ],
+    "confidence": "medium"
+  }
+}

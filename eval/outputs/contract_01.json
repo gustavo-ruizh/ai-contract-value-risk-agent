@@ -1,0 +1,1336 @@
+{
+  "contract_id": "contract_01",
+  "intake": {
+    "contract_id": "contract_01",
+    "profile": {
+      "contract_type": "lease",
+      "parties": [
+        {
+          "name": "Temple CB, LLC",
+          "role": "landlord",
+          "evidence": null
+        },
+        {
+          "name": "Okra Energy, Inc.",
+          "role": "tenant",
+          "evidence": null
+        }
+      ],
+      "effective_date": "2013-12-01",
+      "commencement_date": "2013-12-01",
+      "expiration_date": "2020-05-31",
+      "term": null,
+      "governing_law": "State of California, Los Angeles County",
+      "summary": "A commercial lease agreement between Temple CB, LLC (Landlord) and Okra Energy, Inc. (Tenant) for premises at 4350 Temple City Boulevard, El Monte, California, commencing December 1, 2013 and terminating May 31, 2020, with escalating monthly rent, renewal options, and a purchase option at $3,000,000.",
+      "confidence": "high"
+    },
+    "sections": [
+      {
+        "section_id": "s1",
+        "title": "Grant of Lease",
+        "content": "Landlord leases the premises described in Exhibit A to Tenant, including all improvements thereon, in consideration of rent and Tenant's covenants.",
+        "page": 1
+      },
+      {
+        "section_id": "s2",
+        "title": "Lease Term",
+        "content": "The lease runs from December 1, 2013 to May 31, 2020, with Tenant having the option to renew for up to five additional one-year terms at $100,000/month upon 120 days' written notice, and the right to cancel early upon payment of $300,000 plus any amounts due.",
+        "page": 1
+      },
+      {
+        "section_id": "s3",
+        "title": "Extensions",
+        "content": "The parties may mutually agree in writing to extend the lease on terms negotiated at the time of extension.",
+        "page": 1
+      },
+      {
+        "section_id": "s4",
+        "title": "Determination of Rent",
+        "content": "Monthly rent escalates from $0 in the initial period (Dec 2013–May 2014) to $30,000, $40,000, $50,000, $60,000, and $70,000 in successive annual periods, with a 5% late fee assessed if payment is not received by the 10th of each month.",
+        "page": 1
+      },
+      {
+        "section_id": "s5",
+        "title": "Security Deposit",
+        "content": "Tenant has deposited $20,000 as a security deposit, returnable upon full performance of the lease, and transferable to a bona fide purchaser of the property.",
+        "page": 2
+      },
+      {
+        "section_id": "s6",
+        "title": "Personal Property Taxes",
+        "content": "Tenant is solely liable for all taxes levied against its leasehold interest, personal property, and trade fixtures on the premises.",
+        "page": 2
+      },
+      {
+        "section_id": "s7",
+        "title": "Real Estate Taxes",
+        "content": "Tenant is responsible for paying all real estate taxes and assessments on the leased premises within 21 days of their due date, after receiving copies from Landlord.",
+        "page": 2
+      },
+      {
+        "section_id": "s8",
+        "title": "Contest of Taxes",
+        "content": "Tenant may, at its own expense, contest or seek reduction of any personal or real property tax assessments, with Landlord's cooperation upon request.",
+        "page": 2
+      },
+      {
+        "section_id": "s9",
+        "title": "Payment of Ordinary Assessments",
+        "content": "Tenant must pay all ordinary and extraordinary assessments attributable to the premises within 21 days of their due date, and may pay installment assessments only for installments due during the lease term.",
+        "page": 2
+      },
+      {
+        "section_id": "s10",
+        "title": "Changes in Method of Taxation",
+        "content": "If the method of taxation changes so that taxes are levied on rents rather than real estate, Tenant shall bear those taxes, excluding estate, inheritance, or income taxes of Landlord unless imposed in lieu of real estate taxes.",
+        "page": 2
+      },
+      {
+        "section_id": "s11",
+        "title": "Improvements by Tenant",
+        "content": "Tenant is solely responsible for obtaining permits, contracting, and bearing all costs for construction of improvements per Exhibit B, must maintain builder's risk insurance during construction, keep the property lien-free, and indemnify Landlord against any lien costs.",
+        "page": 3
+      },
+      {
+        "section_id": "s12",
+        "title": "Utilities",
+        "content": "Tenant is responsible for paying all utility and service costs associated with its use of the leased premises.",
+        "page": 3
+      },
+      {
+        "section_id": "s13",
+        "title": "Landlord's Repairs",
+        "content": "Landlord is obligated to repair only material or workmanship defects in the building, and only during the first 12 months of the lease term.",
+        "page": 3
+      },
+      {
+        "section_id": "s14",
+        "title": "Tenant's Repairs",
+        "content": "Tenant must maintain and repair the premises in good condition throughout the lease term, except for reasonable wear and tear and items that are Landlord's responsibility.",
+        "page": 4
+      },
+      {
+        "section_id": "s15",
+        "title": "Requirements of the Law",
+        "content": "If governmental authorities require alterations due to conditions existing at commencement that are Landlord's responsibility, rent shall be abated proportionally and Landlord shall bear the cost of such work.",
+        "page": 4
+      },
+      {
+        "section_id": "s16",
+        "title": "Tenant's Alterations",
+        "content": "Tenant may make non-structural alterations freely and structural alterations with Landlord's written consent (not to be unreasonably withheld), and is responsible for environmental remediation of the premises as if it were a structural alteration.",
+        "page": 4
+      },
+      {
+        "section_id": "s17",
+        "title": "Permits and Expenses",
+        "content": "Each party must obtain necessary permits for their respective work, pay all costs promptly to keep the premises lien-free, and indemnify the other for any injury or damage arising from their work.",
+        "page": 4
+      },
+      {
+        "section_id": "s18",
+        "title": "Tenant's Covenants",
+        "content": "Tenant agrees to obtain required licenses, maintain the premises, surrender them in good condition at lease end, and permit Landlord reasonable access for inspection and showing to prospective purchasers.",
+        "page": 5
+      },
+      {
+        "section_id": "s19",
+        "title": "Indemnity and Public Liability",
+        "content": "Tenant indemnifies Landlord against injury or property damage on the premises (except for Landlord's gross negligence or willful acts) and must maintain public liability insurance of at least $1,000,000 per accident and $250,000 property damage.",
+        "page": 5
+      },
+      {
+        "section_id": "s20",
+        "title": "Use of Property by Tenant",
+        "content": "The premises may be used exclusively for warehouse and power generation purposes, and any sublease or assignment must also be limited to that use.",
+        "page": 6
+      },
+      {
+        "section_id": "s21",
+        "title": "Signage",
+        "content": "Tenant has the right to erect, repair, and replace exterior and interior signs at its own risk and expense in conformity with applicable laws, and must remove them and repair any damage upon lease termination.",
+        "page": 6
+      },
+      {
+        "section_id": "s22",
+        "title": "Insurance Proceeds",
+        "content": "In the event of damage or destruction, Tenant adjusts the loss, and all insurance proceeds are held in trust (controlled by any institutional first mortgagee or jointly by Landlord and Tenant) for repair and restoration, with excess proceeds going to Landlord and any shortfall borne by Tenant.",
+        "page": 6
+      },
+      {
+        "section_id": "s23",
+        "title": "Subrogation",
+        "content": "Landlord and Tenant mutually release each other from liability for property losses covered by fire and extended coverage insurance policies, waiving subrogation rights to the extent of coverage.",
+        "page": 6
+      },
+      {
+        "section_id": "s24",
+        "title": "Contribution",
+        "content": "Tenant must reimburse Landlord for all insurance premiums on policies selected by Landlord at Landlord's sole discretion for the leased premises.",
+        "page": 7
+      },
+      {
+        "section_id": "s25",
+        "title": "Abatement or Adjustment of Rent",
+        "content": "If the premises are damaged or destroyed by fire or casualty, rent is abated proportionally to the portion of the premises of which Tenant is deprived during the repair period.",
+        "page": 7
+      },
+      {
+        "section_id": "s26",
+        "title": "Repairs and Restoration",
+        "content": "Landlord must promptly repair and restore the premises after damage or destruction; if a building permit is not obtained within 90 days or restoration is not completed within 9 months, Tenant may terminate the lease on 90 days' notice, and either party may terminate if damage during the last year exceeds 25% of replacement cost.",
+        "page": 7
+      },
+      {
+        "section_id": "s27",
+        "title": "Total Taking",
+        "content": "If the entire premises are taken by eminent domain, the lease terminates as of the date of taking and any prepaid rent is refunded to Tenant.",
+        "page": 7
+      },
+      {
+        "section_id": "s28",
+        "title": "Partial Taking",
+        "content": "If a taking reduces the leased area by 15% or more or substantially obstructs Tenant's business, Tenant may elect to terminate the lease within 30 days of notice of the taking.",
+        "page": 8
+      },
+      {
+        "section_id": "s29",
+        "title": "Restoration After Partial Taking",
+        "content": "If the lease continues after a partial taking, Landlord must restore the remaining premises at its own expense and rent is reduced proportionally to the remaining square footage.",
+        "page": 8
+      },
+      {
+        "section_id": "s30",
+        "title": "The Award",
+        "content": "All condemnation awards belong to Landlord, but Tenant retains any award made directly to it for loss of business, fixtures, or improvements it installed.",
+        "page": 8
+      },
+      {
+        "section_id": "s31",
+        "title": "Condemnation Release",
+        "content": "Upon lease termination due to condemnation, both parties are released from all future obligations under the lease.",
+        "page": 8
+      },
+      {
+        "section_id": "s32",
+        "title": "Landlord's Remedies",
+        "content": "Upon Tenant default (including repeated late payment, liens, covenant breaches, or bankruptcy), Landlord may terminate the lease, accelerate rent, re-enter and relet the premises, pursue damages, or exercise other available legal and equitable remedies, all of which are cumulative.",
+        "page": 8
+      },
+      {
+        "section_id": "s33",
+        "title": "Landlord's Self Help",
+        "content": "If Tenant fails to cure a default within 30 days of notice, Landlord may cure it at Tenant's expense and recover those costs as additional rent, with immediate action permitted in emergencies.",
+        "page": 10
+      },
+      {
+        "section_id": "s34",
+        "title": "Tenant's Self Help",
+        "content": "If Landlord fails to cure a default within 30 days of notice, Tenant may cure it at Landlord's expense and deduct those costs from future rent payments, subject to Landlord's right to contest the amount through arbitration or declaratory judgment.",
+        "page": 11
+      },
+      {
+        "section_id": "s35",
+        "title": "Subordination",
+        "content": "Tenant must subordinate this lease to any institutional mortgage upon Landlord's written request, provided the mortgagee agrees in writing not to disturb Tenant's possession so long as Tenant is not in default.",
+        "page": 11
+      },
+      {
+        "section_id": "s36",
+        "title": "Quiet Enjoyment",
+        "content": "Landlord covenants that Tenant shall have peaceful and uninterrupted possession of the premises so long as Tenant pays rent and performs its obligations under the lease.",
+        "page": 12
+      },
+      {
+        "section_id": "s37",
+        "title": "Zoning and Good Title",
+        "content": "Landlord warrants that it holds fee simple title free of encumbrances (except recorded easements and restrictions), has full authority to execute the lease, and that the premises are properly zoned for the intended use.",
+        "page": 12
+      },
+      {
+        "section_id": "s38",
+        "title": "Licenses",
+        "content": "Tenant is solely responsible for obtaining all necessary operating licenses and must promptly notify Landlord upon obtaining them.",
+        "page": 12
+      },
+      {
+        "section_id": "s39",
+        "title": "Holding Over",
+        "content": "If Tenant remains in occupancy after lease expiration without a written agreement, the occupancy converts to a month-to-month tenancy at will at the rent in effect at lease expiration.",
+        "page": 12
+      },
+      {
+        "section_id": "s40",
+        "title": "Waivers",
+        "content": "Failure to enforce any right under the lease does not constitute a waiver, and all rights and remedies are cumulative and may be exercised simultaneously or successively.",
+        "page": 13
+      },
+      {
+        "section_id": "s41",
+        "title": "Disputes",
+        "content": "Either party may make payments or perform work 'under protest' to preserve the right to seek recovery through litigation if the legal obligation to pay or perform is disputed.",
+        "page": 13
+      },
+      {
+        "section_id": "s42",
+        "title": "Tenant's Right to Cure Landlord's Default",
+        "content": "If Landlord fails to pay mortgages, liens, or encumbrances that could affect Tenant's leasehold interest, Tenant may pay them and deduct the amounts from rent.",
+        "page": 13
+      },
+      {
+        "section_id": "s43",
+        "title": "Notices",
+        "content": "All notices under the lease must be in writing and sent by certified mail, return receipt requested, to the addresses specified in the lease or as updated by written notice.",
+        "page": 13
+      },
+      {
+        "section_id": "s44",
+        "title": "Loss and Damage",
+        "content": "Landlord is not liable for loss or damage to Tenant's property on the premises except where caused by Landlord's negligence or willful acts, or where Landlord failed to make required repairs after written notice from Tenant.",
+        "page": 14
+      },
+      {
+        "section_id": "s45",
+        "title": "Force Majeure",
+        "content": "Performance obligations (other than payment of rent and charges) are excused and extended for the duration of delays caused by events beyond a party's control, but lack of funds is not a qualifying force majeure event.",
+        "page": 14
+      },
+      {
+        "section_id": "s46",
+        "title": "Option to Purchase",
+        "content": "Tenant has the right to purchase the leased premises at any time during the lease term for a fixed price of $3,000,000.",
+        "page": 14
+      },
+      {
+        "section_id": "s47",
+        "title": "Assignment and Subletting",
+        "content": "Tenant has the absolute right to assign the lease or sublease all or part of the premises, provided Tenant is not in default at the time, and the assignee or sublessee must use the premises only as permitted under the lease.",
+        "page": 14
+      },
+      {
+        "section_id": "s48",
+        "title": "Fixtures",
+        "content": "All trade fixtures and non-structural improvements installed by Tenant at its expense remain Tenant's property and may be removed during the lease term, provided Tenant repairs any resulting damage.",
+        "page": 14
+      },
+      {
+        "section_id": "s49",
+        "title": "Estoppel Certificates",
+        "content": "Either party must provide the other with a written estoppel certificate upon request, confirming the lease's status, any modifications, and the absence of defaults.",
+        "page": 14
+      },
+      {
+        "section_id": "s50",
+        "title": "Invalidity of Particular Provision",
+        "content": "If any provision of the lease is found invalid or unenforceable, the remainder of the lease continues in full force and effect.",
+        "page": 15
+      },
+      {
+        "section_id": "s51",
+        "title": "Governing Law",
+        "content": "The lease is governed by California law, disputes are subject to the jurisdiction of Los Angeles County courts with jury trial waived, and the prevailing party in litigation is entitled to recover attorneys' fees and costs, with a one-year statute of limitations on claims.",
+        "page": 15
+      },
+      {
+        "section_id": "s52",
+        "title": "Reliance on Financial Statement",
+        "content": "Tenant must provide a financial statement at lease execution, and if material inaccuracies or adverse changes in Tenant's financial condition are found, Landlord may require additional security, a third-party guaranty, or terminate the lease.",
+        "page": 16
+      }
+    ],
+    "analyzability": "partially_analyzable",
+    "analyzability_notes": "Exhibit A (legal description of the leased premises) and Exhibit B (tenant plans and specifications) are referenced but not included in the contract text, leaving the precise property description and improvement plans unverifiable. Expiration date of 2020-05-31 is explicitly stated in the contract.",
+    "confidence": "high"
+  },
+  "payment_obligations": {
+    "contract_id": "contract_01",
+    "obligations": [
+      {
+        "obligation_id": "p-001",
+        "description": "Security deposit paid by Tenant to Landlord at lease commencement",
+        "payment_type": "deposit",
+        "frequency": "one_time",
+        "amount": {
+          "amount": 20000,
+          "currency": "USD"
+        },
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": "2013-12-01",
+        "date_range": null,
+        "payer": "Okra Energy, Inc.",
+        "payee": "Temple CB, LLC",
+        "conditions": "Returnable after expiration of lease provided Tenant has fully and faithfully carried out all terms. Transferable to purchaser in event of bona fide sale.",
+        "evidence": {
+          "text": "The Tenant has deposited with the Landlord the sum of Twenty Thousand Dollars ($20,000.00) as security for the full and faithful performance by the Tenant of all the terms of this lease required to be performed by the Tenant. Such sum shall be returned to the Tenant after the expiration of this lease, provided the Tenant has fully and faithfully carried out all of its terms.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 2,
+          "relevance_score": null,
+          "section": "ARTICLE V"
+        },
+        "confidence": "high",
+        "is_included_in_base_valuation": true,
+        "valuation_treatment": "include"
+      },
+      {
+        "obligation_id": "p-002",
+        "description": "Monthly base (Minimum) Rent payable by Tenant throughout the lease term",
+        "payment_type": "recurring",
+        "frequency": "monthly",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": {
+          "start": "2013-12-01",
+          "end": "2020-05-31"
+        },
+        "payer": "Okra Energy, Inc.",
+        "payee": "Temple CB, LLC",
+        "conditions": "Escalating monthly rent schedule as defined in the lease; specific amounts referenced in Article IV but not fully quoted in provided passages.",
+        "evidence": {
+          "text": "Without terminating this Lease, declare immediately due and payable all Minimum Rent, Taxes, and other rents and amounts due and coming due under this Lease for the entire remaining term hereof",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 9,
+          "relevance_score": null,
+          "section": "ARTICLE XVI - DEFAULT Section 1"
+        },
+        "confidence": "medium",
+        "is_included_in_base_valuation": true,
+        "valuation_treatment": "include"
+      },
+      {
+        "obligation_id": "p-003",
+        "description": "Percentage Rent payable by Tenant in addition to Minimum Rent",
+        "payment_type": "variable",
+        "frequency": "irregular",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": {
+          "start": "2013-12-01",
+          "end": "2020-05-31"
+        },
+        "payer": "Okra Energy, Inc.",
+        "payee": "Temple CB, LLC",
+        "conditions": "Payable based on percentage rent provisions referenced in Article IV; specific formula and thresholds not fully quoted in provided passages.",
+        "evidence": {
+          "text": "the Minimum Rent, Percentage Rent, Taxes and all other sums which would have been payable hereunder by Tenant for the period commencing with the day following the date of such termination and ending with the date herein before set for the expiration of the full term hereby granted",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 9,
+          "relevance_score": null,
+          "section": "ARTICLE XVI - DEFAULT Section 1 ii"
+        },
+        "confidence": "low",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-004",
+        "description": "Real estate taxes and assessments on the Leased Property payable by Tenant from Commencement Date",
+        "payment_type": "recurring",
+        "frequency": "irregular",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": {
+          "start": "2013-12-01",
+          "end": "2020-05-31"
+        },
+        "payer": "Okra Energy, Inc.",
+        "payee": "Temple CB, LLC",
+        "conditions": "Landlord shall deliver copy of real estate taxes and assessments to Tenant; Tenant responsible from Commencement Date forward. Specific allocation and amounts subject to annual tax bills.",
+        "evidence": {
+          "text": "During the continuance of this lease Landlord shall deliver to Tenant a copy of any real estate taxes and assessments against the Leased Property. From and after the Commencement",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 2,
+          "relevance_score": null,
+          "section": "ARTICLE VI - TAXES Section 2"
+        },
+        "confidence": "medium",
+        "is_included_in_base_valuation": true,
+        "valuation_treatment": "include"
+      },
+      {
+        "obligation_id": "p-005",
+        "description": "Personal property taxes levied against Tenant's leasehold interest, personal property, and trade fixtures",
+        "payment_type": "recurring",
+        "frequency": "annually",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": {
+          "start": "2013-12-01",
+          "end": "2020-05-31"
+        },
+        "payer": "Okra Energy, Inc.",
+        "payee": null,
+        "conditions": "Tenant solely liable for all taxes levied against its leasehold interest or personal property/trade fixtures placed in the Leased Premises.",
+        "evidence": {
+          "text": "The Tenant shall be liable for all taxes levied against any leasehold interest of the Tenant or personal property and trade fixtures owned or placed by the Tenant in the Leased Premises.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 2,
+          "relevance_score": null,
+          "section": "ARTICLE VI - TAXES Section 1"
+        },
+        "confidence": "high",
+        "is_included_in_base_valuation": true,
+        "valuation_treatment": "include"
+      },
+      {
+        "obligation_id": "p-006",
+        "description": "Purchase option exercise price for the Leased Premises",
+        "payment_type": "milestone",
+        "frequency": "one_time",
+        "amount": {
+          "amount": 3000000,
+          "currency": "USD"
+        },
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": {
+          "start": "2013-12-01",
+          "end": "2020-05-31"
+        },
+        "payer": "Okra Energy, Inc.",
+        "payee": "Temple CB, LLC",
+        "conditions": "Tenant may exercise this option at any time during the Term of the Lease.",
+        "evidence": {
+          "text": "During the Term of this Lease, Tenant shall have the right to purchase the Leased Premises at any time for a purchase price equal to Three Million Dollars ($3,000,000).",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 14,
+          "relevance_score": null,
+          "section": "ARTICLE XX - OPTION TO PURCHASE"
+        },
+        "confidence": "high",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "exclude"
+      },
+      {
+        "obligation_id": "p-007",
+        "description": "Accelerated payment of all remaining Minimum Rent, Taxes, and other amounts due for the entire remaining lease term upon Tenant default",
+        "payment_type": "contingent",
+        "frequency": "one_time",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": "Okra Energy, Inc.",
+        "payee": "Temple CB, LLC",
+        "conditions": "Triggered upon Tenant default as defined in Article XVI. Landlord may declare all future rents immediately due and payable without terminating the Lease.",
+        "evidence": {
+          "text": "Without terminating this Lease, declare immediately due and payable all Minimum Rent, Taxes, and other rents and amounts due and coming due under this Lease for the entire remaining term hereof, together with all other amounts previously due, at once; provided, however, that such payment shall not be deemed a penalty or liquidated damages but shall merely constitute payment in advance of rent for the remainder of said term.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 9,
+          "relevance_score": null,
+          "section": "ARTICLE XVI - DEFAULT Section 1 iii"
+        },
+        "confidence": "high",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-008",
+        "description": "Deficiency rent payments by Tenant if reletting proceeds are insufficient to cover amounts owed",
+        "payment_type": "contingent",
+        "frequency": "monthly",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": "Okra Energy, Inc.",
+        "payee": "Temple CB, LLC",
+        "conditions": "Triggered if Landlord relets the Premises and rents received are less than sufficient to pay Landlord the entire sums then due from Tenant. Payable monthly at Landlord's option.",
+        "evidence": {
+          "text": "If such rentals received from such reletting shall at any time or from time to time be less than sufficient to pay to Landlord the entire sums then due from Tenant hereunder, Tenant shall pay any such deficiency to Landlord. Such deficiency shall, at Landlord's option, be calculated and paid monthly.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 10,
+          "relevance_score": null,
+          "section": "ARTICLE XVI - DEFAULT Section 1 iv"
+        },
+        "confidence": "high",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-009",
+        "description": "Damages recoverable by Landlord upon lease termination due to Tenant default, including excess of future rents over reasonable rental value",
+        "payment_type": "penalty",
+        "frequency": "one_time",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": "Okra Energy, Inc.",
+        "payee": "Temple CB, LLC",
+        "conditions": "Triggered upon Landlord terminating lease due to Tenant default. Damages include sum representing value of excess of Minimum Rent, Percentage Rent, Taxes and all other sums over aggregate reasonable rental value for remaining term.",
+        "evidence": {
+          "text": "Terminate this Lease as provided herein and recover from Tenant all damages Landlord may incur by reason of Tenant's default, including, without limitation, a sum which, at the date of such termination, represents the then value of the excess, if any, of (a) the Minimum Rent, Percentage Rent, Taxes and all other sums which would have been payable hereunder by Tenant for the period commencing with the day following the date of such termination and ending with the date herein before set for the expiration of the full term hereby granted, over (b) the aggregate reasonable rental value of the Premises for the same period, all of which excess sum shall be deemed immediately due and payable",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 9,
+          "relevance_score": null,
+          "section": "ARTICLE XVI - DEFAULT Section 1 ii"
+        },
+        "confidence": "high",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-010",
+        "description": "Tenant's right to pay Landlord's mortgages, liens, or encumbrances and deduct from rent",
+        "payment_type": "contingent",
+        "frequency": "irregular",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": "Okra Energy, Inc.",
+        "payee": null,
+        "conditions": "Triggered only if Landlord fails, refuses, or neglects to pay mortgages, liens, encumbrances, or interest thereon affecting Tenant's interest. Tenant may pay and deduct from reserved rents; any excess paid by Landlord to Tenant.",
+        "evidence": {
+          "text": "In the event that Landlord shall fail, refuse or neglect to pay any mortgages, liens or encumbrances, the judicial sale of which might affect the interest of Tenant hereunder, or shall fail, refuse or neglect to pay any interest due or payable on any such mortgage, lien or encumbrance, Tenant may pay said mortgages, liens or encumbrances, or interest or perform said conditions and charge to Landlord the amount so paid and withhold and deduct from any rents herein reserved such amounts so paid, and any excess over and above the amounts of said rents shall be paid by Landlord to Tenant.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 13,
+          "relevance_score": null,
+          "section": "ARTICLE XVIII Section 5"
+        },
+        "confidence": "medium",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-011",
+        "description": "Landlord reimbursement to Tenant for costs incurred curing Landlord's default",
+        "payment_type": "contingent",
+        "frequency": "one_time",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": "Temple CB, LLC",
+        "payee": "Okra Energy, Inc.",
+        "conditions": "Triggered if Landlord fails to cure its default within 30 days and Tenant cures the default on Landlord's account. Landlord must reimburse Tenant on demand; if not reimbursed, Tenant may deduct from future rent payments.",
+        "evidence": {
+          "text": "any amount paid or any contractual liability incurred by Tenant in so doing shall be deemed paid or incurred for the account of Landlord and Landlord shall reimburse Tenant therefor and save Tenant harmless therefrom... If Landlord shall fail to reimburse Tenant upon demand for any amount paid or liability incurred for the account of Landlord hereunder, said amount or liability may be deducted by Tenant from the next or any succeeding payments of rent due hereunder",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 11,
+          "relevance_score": null,
+          "section": "ARTICLE XVII Section 1"
+        },
+        "confidence": "medium",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-012",
+        "description": "Payments made under protest — right to recover if no legal obligation exists",
+        "payment_type": "contingent",
+        "frequency": "irregular",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": null,
+        "payer": null,
+        "payee": null,
+        "conditions": "Either party may pay disputed amounts under protest and institute suit for recovery if no legal obligation to pay exists.",
+        "evidence": {
+          "text": "if at any time a dispute shall arise as to any amount or sum of money to be paid by one party to the other under the provisions hereof, the party against whom the obligation to pay the money is asserted shall have the right to make payment \"under protest\" and such payment shall not be regarded as a voluntary payment and there shall survive the right on the part of the said party to institute suit for the recovery of such sum.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 13,
+          "relevance_score": null,
+          "section": "ARTICLE XVIII Section 4"
+        },
+        "confidence": "low",
+        "is_included_in_base_valuation": false,
+        "valuation_treatment": "conditional"
+      },
+      {
+        "obligation_id": "p-013",
+        "description": "Obligations to make rent, additional rent, and other charges — explicitly excluded from force majeure relief",
+        "payment_type": "recurring",
+        "frequency": "monthly",
+        "amount": null,
+        "amount_min": null,
+        "amount_max": null,
+        "due_date": null,
+        "date_range": {
+          "start": "2013-12-01",
+          "end": "2020-05-31"
+        },
+        "payer": "Okra Energy, Inc.",
+        "payee": "Temple CB, LLC",
+        "conditions": "Force majeure provisions explicitly do not excuse Tenant's obligation to make payments of rent, additional rent, and other charges.",
+        "evidence": {
+          "text": "delayed or hindered in or prevented from the performance of any act other than Tenant's obligation to make payments of rent, additional rent, and other charges required hereunder, by reason of strikes, lockouts, unavailability of materials, failure of power, restrictive governmental laws or regulations, riots, insurrections, the act, failure to act, or default of the other party, war or other reason beyond its control",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 14,
+          "relevance_score": null,
+          "section": "ARTICLE XIX"
+        },
+        "confidence": "medium",
+        "is_included_in_base_valuation": true,
+        "valuation_treatment": "include"
+      }
+    ],
+    "extraction_issues": [
+      {
+        "issue_id": "i-001",
+        "description": "Article IV (Determination of Rent) containing the specific monthly rent schedule and escalation amounts is referenced but not included in the provided passages. Minimum Rent amounts, escalation schedule, and Percentage Rent formula cannot be precisely quantified from the available text.",
+        "severity": "error",
+        "related_section": "ARTICLE IV - DETERMINATION OF RENT"
+      },
+      {
+        "issue_id": "i-002",
+        "description": "Renewal option terms referenced in the summary but no renewal option passages were provided. Renewal payment obligations cannot be extracted.",
+        "severity": "warning",
+        "related_section": "Renewal Options"
+      },
+      {
+        "issue_id": "i-003",
+        "description": "Article VI Section 2 (Real Estate Taxes) passage is truncated at 'From and after the Commencement' — the full tax obligation allocation and payment mechanism cannot be confirmed from the provided text.",
+        "severity": "warning",
+        "related_section": "ARTICLE VI - TAXES Section 2"
+      },
+      {
+        "issue_id": "i-004",
+        "description": "Additional rent and utility charge obligations are referenced in multiple default and force majeure clauses but the underlying substantive articles defining these obligations are not included in the provided passages.",
+        "severity": "warning",
+        "related_section": "Additional Rent / Utilities"
+      },
+      {
+        "issue_id": "i-005",
+        "description": "Late fee or default interest rate provisions referenced conceptually (payment received 10+ days after due date constitutes default) but no specific late charge amount or interest rate is stated in the provided passages.",
+        "severity": "warning",
+        "related_section": "ARTICLE XVI - DEFAULT Section 1"
+      }
+    ],
+    "uncertainty_flags": [
+      "ambiguous_amount",
+      "missing_payment_dates",
+      "conditional_escalation",
+      "ambiguous_renewal_terms"
+    ],
+    "confidence": "medium"
+  },
+  "contract_value": {
+    "contract_id": "contract_01",
+    "total_nominal_value": {
+      "amount": 20000,
+      "currency": "USD"
+    },
+    "total_present_value": {
+      "amount": 20000,
+      "currency": "USD"
+    },
+    "payment_schedule": [
+      {
+        "obligation_id": "p-001",
+        "description": "Security deposit paid by Tenant to Landlord at lease commencement",
+        "payment_date": "2013-12-01",
+        "nominal_amount": {
+          "amount": 20000,
+          "currency": "USD"
+        },
+        "present_value": {
+          "amount": 20000,
+          "currency": "USD"
+        },
+        "discount_rate_applied": 0.03,
+        "periods_discounted": 0
+      }
+    ],
+    "assumptions": [
+      {
+        "assumption_id": "assume-conditional-p-003",
+        "description": "Conditional obligation 'Percentage Rent payable by Tenant in addition to Minimum Rent' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      },
+      {
+        "assumption_id": "assume-conditional-p-007",
+        "description": "Conditional obligation 'Accelerated payment of all remaining Minimum Rent, Taxes, and other amounts due for the entire remaining lease term upon Tenant default' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      },
+      {
+        "assumption_id": "assume-conditional-p-008",
+        "description": "Conditional obligation 'Deficiency rent payments by Tenant if reletting proceeds are insufficient to cover amounts owed' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      },
+      {
+        "assumption_id": "assume-conditional-p-009",
+        "description": "Conditional obligation 'Damages recoverable by Landlord upon lease termination due to Tenant default, including excess of future rents over reasonable rental value' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      },
+      {
+        "assumption_id": "assume-conditional-p-010",
+        "description": "Conditional obligation 'Tenant's right to pay Landlord's mortgages, liens, or encumbrances and deduct from rent' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      },
+      {
+        "assumption_id": "assume-conditional-p-011",
+        "description": "Conditional obligation 'Landlord reimbursement to Tenant for costs incurred curing Landlord's default' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      },
+      {
+        "assumption_id": "assume-conditional-p-012",
+        "description": "Conditional obligation 'Payments made under protest — right to recover if no legal obligation exists' included at full stated value.",
+        "value": "included_at_full_value",
+        "source_uncertainty_flag": true
+      }
+    ],
+    "warnings": [
+      {
+        "warning_id": "warn-no-amount-p-002",
+        "description": "No amount for obligation 'Monthly base (Minimum) Rent payable by Tenant throughout the lease term'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-002"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-003",
+        "description": "No amount for obligation 'Percentage Rent payable by Tenant in addition to Minimum Rent'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-003"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-004",
+        "description": "No amount for obligation 'Real estate taxes and assessments on the Leased Property payable by Tenant from Commencement Date'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-004"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-005",
+        "description": "No amount for obligation 'Personal property taxes levied against Tenant's leasehold interest, personal property, and trade fixtures'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-005"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-007",
+        "description": "No amount for obligation 'Accelerated payment of all remaining Minimum Rent, Taxes, and other amounts due for the entire remaining lease term upon Tenant default'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-007"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-008",
+        "description": "No amount for obligation 'Deficiency rent payments by Tenant if reletting proceeds are insufficient to cover amounts owed'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-008"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-009",
+        "description": "No amount for obligation 'Damages recoverable by Landlord upon lease termination due to Tenant default, including excess of future rents over reasonable rental value'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-009"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-010",
+        "description": "No amount for obligation 'Tenant's right to pay Landlord's mortgages, liens, or encumbrances and deduct from rent'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-010"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-011",
+        "description": "No amount for obligation 'Landlord reimbursement to Tenant for costs incurred curing Landlord's default'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-011"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-012",
+        "description": "No amount for obligation 'Payments made under protest — right to recover if no legal obligation exists'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-012"
+        ]
+      },
+      {
+        "warning_id": "warn-no-amount-p-013",
+        "description": "No amount for obligation 'Obligations to make rent, additional rent, and other charges — explicitly excluded from force majeure relief'; excluded from valuation.",
+        "affected_obligation_ids": [
+          "p-013"
+        ]
+      }
+    ],
+    "uncertainty_flags": [
+      "ambiguous_amount",
+      "missing_payment_dates",
+      "conditional_escalation",
+      "ambiguous_renewal_terms",
+      "missing_amount:p-002",
+      "conditional_obligation:p-003",
+      "missing_amount:p-003",
+      "missing_amount:p-004",
+      "missing_amount:p-005",
+      "conditional_obligation:p-007",
+      "missing_amount:p-007",
+      "conditional_obligation:p-008",
+      "missing_amount:p-008",
+      "conditional_obligation:p-009",
+      "missing_amount:p-009",
+      "conditional_obligation:p-010",
+      "missing_amount:p-010",
+      "conditional_obligation:p-011",
+      "missing_amount:p-011",
+      "conditional_obligation:p-012",
+      "missing_amount:p-012",
+      "missing_amount:p-013"
+    ],
+    "confidence": "low"
+  },
+  "risk_assessment": {
+    "contract_id": "contract_01",
+    "risks": [
+      {
+        "risk_id": "r-001",
+        "title": "Missing Minimum Rent Schedule Amounts",
+        "description": "The monthly base (Minimum) Rent obligation (p-002) has no specific amounts stated in the retrieved passages. The escalating rent schedule is referenced in Article IV but not fully quoted. Without these figures, the total lease liability cannot be reliably calculated, and the escalation profile is unknown. This is a critical gap for valuation and financial risk assessment.",
+        "category": "financial",
+        "severity": "critical",
+        "evidence": {
+          "text": "Escalating monthly rent schedule as defined in the lease; specific amounts referenced in Article IV but not fully quoted in provided passages.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": "Article IV"
+        },
+        "mitigation": "Obtain and review the full rent schedule from Article IV of the executed lease to confirm all monthly amounts and escalation steps across the 77-month term.",
+        "is_blocking": true,
+        "risk_priority_score": 140
+      },
+      {
+        "risk_id": "r-002",
+        "title": "Undefined Percentage Rent Formula and Thresholds",
+        "description": "Obligation p-003 identifies a Percentage Rent payable in addition to Minimum Rent, but the specific formula, breakpoint, and percentage rate are not disclosed in the retrieved passages. This creates an indeterminate variable cost exposure for the tenant and an uncertain revenue stream for the landlord. The valuation context includes this obligation at full stated value despite no stated value existing, amplifying the uncertainty.",
+        "category": "financial",
+        "severity": "critical",
+        "evidence": {
+          "text": "Payable based on percentage rent provisions referenced in Article IV; specific formula and thresholds not fully quoted in provided passages.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": "Article IV"
+        },
+        "mitigation": "Extract the full percentage rent clause from Article IV, including the natural breakpoint, applicable gross sales definition, and the percentage rate, to quantify the exposure.",
+        "is_blocking": true,
+        "risk_priority_score": 140
+      },
+      {
+        "risk_id": "r-003",
+        "title": "Accelerated Rent Upon Default — Full Remaining Term Liability",
+        "description": "Upon a Tenant default, the Landlord may declare all remaining Minimum Rent, Taxes, and other amounts for the entire remaining lease term immediately due and payable as a lump sum. This creates a potentially very large contingent liability for the Tenant (up to six-plus years of rent in a worst-case early default scenario). The valuation context includes this at full stated value, but the amounts are unknown because the rent schedule is missing.",
+        "category": "financial",
+        "severity": "critical",
+        "evidence": {
+          "text": "due and coming due under this Lease for the entire remaining term hereof, together with all other amounts previously due, at once; provided, however, that such payment shall not be deemed a penalty or",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 9,
+          "relevance_score": null,
+          "section": "Article XVI"
+        },
+        "mitigation": "Confirm the rent schedule to quantify maximum acceleration exposure; assess Tenant's financial capacity to absorb acceleration; consider whether California law limits enforceability of such clauses.",
+        "is_blocking": true,
+        "risk_priority_score": 140
+      },
+      {
+        "risk_id": "r-004",
+        "title": "Ambiguous Renewal Option Terms and Financial Impact",
+        "description": "The contract summary references renewal options but the retrieved passages and obligation records do not specify the number of renewal periods, their duration, the rent applicable during renewal, or the notice requirements. Ambiguous renewal terms mean the total potential lease duration and associated rent obligations are unknown, materially affecting valuation.",
+        "category": "financial",
+        "severity": "high",
+        "evidence": {
+          "text": "Uncertainty flags include: ambiguous_renewal_terms",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Review the renewal option clause in full to identify: number of options, option period lengths, rent reset mechanism (e.g., fixed, CPI, fair market), and notice deadlines.",
+        "is_blocking": true,
+        "risk_priority_score": 130
+      },
+      {
+        "risk_id": "r-005",
+        "title": "Real Estate Tax Obligation — Amounts Unknown and Annually Variable",
+        "description": "Obligation p-004 assigns all real estate taxes and assessments to the Tenant from the commencement date, but no historical or estimated tax amounts are provided. California property taxes can increase upon reassessment events (including a sale, which could be triggered by the purchase option), creating unpredictable and potentially significant cost exposure for the Tenant.",
+        "category": "financial",
+        "severity": "high",
+        "evidence": {
+          "text": "Landlord shall deliver copy of real estate taxes and assessments to Tenant; Tenant responsible from Commencement Date forward. Specific allocation and amounts subject to annual tax bills.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Obtain historical tax bills for the property; model potential reassessment scenarios, especially if the purchase option is exercised; confirm the allocation methodology for partial years.",
+        "is_blocking": false,
+        "risk_priority_score": 30
+      },
+      {
+        "risk_id": "r-006",
+        "title": "Deficiency Rent Risk Upon Reletting",
+        "description": "If the Landlord relets the premises following a Tenant default and the reletting proceeds are insufficient to cover amounts owed, the Tenant remains liable for the deficiency on a monthly basis. The amount is indeterminate and depends on prevailing market rents at time of default, creating an open-ended contingent liability. This is included at full stated value in the valuation context despite having no stated value.",
+        "category": "financial",
+        "severity": "high",
+        "evidence": {
+          "text": "the residue, if any shall be held by Landlord to the extent of and for application in payment of future rent as the same may become due and payable hereunder",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 10,
+          "relevance_score": null,
+          "section": "Article XVI"
+        },
+        "mitigation": "Model deficiency scenarios using current market rental rates for comparable El Monte, CA industrial/commercial properties; assess probability of default and reletting duration.",
+        "is_blocking": false,
+        "risk_priority_score": 30
+      },
+      {
+        "risk_id": "r-007",
+        "title": "Landlord Default Remedies — Cumulative and Non-Waivable Rights",
+        "description": "The lease explicitly states that all rights and remedies of both parties are distinct, separate, and cumulative and cannot be deemed waived. This means any technical breach could be pursued cumulatively, increasing litigation exposure and creating uncertainty about the enforceability of informal cure arrangements or past non-enforcement of provisions.",
+        "category": "legal",
+        "severity": "high",
+        "evidence": {
+          "text": "all rights and remedies which either party may have under this Lease or by operation of law, either at law or in equity, upon any breach, shall be distinct, separate and cumulative and shall not be de",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 13,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Document all side agreements and accommodations in formal written amendments; ensure compliance monitoring to avoid accumulation of uncured technical defaults.",
+        "is_blocking": false,
+        "risk_priority_score": 30
+      },
+      {
+        "risk_id": "r-008",
+        "title": "Condemnation Award Allocation — Tenant Fixture Recovery Risk",
+        "description": "The retrieved passage references allocation of condemnation awards, with Tenant having rights to recover only for loss of business, damage to fixtures, and cost of removal. Tenant does not appear to have rights to the underlying property value award. Given the purchase option at $3,000,000, a condemnation during the lease term could deprive Tenant of the ability to exercise the option while also limiting its condemnation recovery.",
+        "category": "legal",
+        "severity": "high",
+        "evidence": {
+          "text": "any portion of any award made by the appropriating authority directly to Tenant for loss of business, or damage to or depreciation of, and cost of removal of fixtures, personally and improvements inst",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 8,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Review the full condemnation clause to confirm Tenant's entitlement; assess whether the purchase option survives or is extinguished upon condemnation; ensure adequate business interruption insurance.",
+        "is_blocking": false,
+        "risk_priority_score": 30
+      },
+      {
+        "risk_id": "r-009",
+        "title": "Tenant Payment Obligations Not Excused by Force Majeure",
+        "description": "The lease explicitly excludes rent, additional rent, and other charges from force majeure relief. This means that even in the event of natural disasters, government actions, or other force majeure events that prevent Tenant from operating, full payment obligations continue. This is particularly relevant for an energy company (Okra Energy) subject to regulatory disruptions.",
+        "category": "legal",
+        "severity": "high",
+        "evidence": {
+          "text": "Force majeure provisions explicitly do not excuse Tenant's obligation to make payments of rent, additional rent, and other charges.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Evaluate business interruption insurance coverage; assess operational resilience; model financial impact of prolonged operational shutdown while rent obligations continue.",
+        "is_blocking": false,
+        "risk_priority_score": 30
+      },
+      {
+        "risk_id": "r-010",
+        "title": "Purchase Option Pricing Risk — Fixed at $3,000,000",
+        "description": "The purchase option is fixed at $3,000,000 and exercisable at any time during the lease term. If property values increase significantly (El Monte, CA market), the option is valuable to the Tenant but the Landlord is locked in. If property values decline, the Tenant would be unlikely to exercise. This creates asymmetric risk for the Landlord. The option has no stated expiration notice requirement, creating ambiguity about the exercise mechanism.",
+        "category": "financial",
+        "severity": "medium",
+        "evidence": {
+          "text": "Tenant may exercise this option at any time during the Term of the Lease.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Obtain current property appraisal to assess option value; review the option exercise notice requirements and conditions precedent; confirm whether the option survives lease renewal periods.",
+        "is_blocking": false,
+        "risk_priority_score": 20
+      },
+      {
+        "risk_id": "r-011",
+        "title": "Landlord Mortgage Default — Tenant Self-Help and Rent Deduction Risk",
+        "description": "The lease permits the Tenant to pay the Landlord's mortgages, liens, or encumbrances if the Landlord fails to do so, and to deduct such payments from reserved rent. This self-help remedy creates risk of disputes over the validity of deductions, potential landlord claims of non-payment of rent, and complexity if the Landlord's lender is involved. The triggering conditions are also vague ('fails, refuses, or neglects').",
+        "category": "legal",
+        "severity": "medium",
+        "evidence": {
+          "text": "Triggered only if Landlord fails, refuses, or neglects to pay mortgages, liens, encumbrances, or interest thereon affecting Tenant's interest. Tenant may pay and deduct from reserved rents; any excess paid by Landlord to Tenant.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Clarify the triggering conditions and procedural requirements for exercising this self-help right; confirm compliance with California non-disturbance and subordination requirements.",
+        "is_blocking": false,
+        "risk_priority_score": 20
+      },
+      {
+        "risk_id": "r-012",
+        "title": "Counterparty Credit Risk — Okra Energy, Inc. as Single Tenant",
+        "description": "The entire lease value is concentrated in a single tenant, Okra Energy, Inc., an energy company. The energy sector is subject to regulatory, commodity price, and operational risks that could impair the Tenant's ability to pay. There is no guarantor or credit enhancement identified in the obligation records. If the Tenant defaults, the Landlord faces the full acceleration, reletting, and damages remedies described in the lease, with uncertain recovery.",
+        "category": "counterparty",
+        "severity": "high",
+        "evidence": {
+          "text": "Parties: Temple CB, LLC (landlord), Okra Energy, Inc. (tenant)",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Obtain and review Tenant's current financial statements; assess energy sector regulatory exposure in California; consider requiring a guaranty or letter of credit if not already in place.",
+        "is_blocking": false,
+        "risk_priority_score": 30
+      },
+      {
+        "risk_id": "r-013",
+        "title": "Missing Payment Due Dates for Recurring Obligations",
+        "description": "The uncertainty flags identify 'missing_payment_dates' as a systemic issue across multiple obligations. Without specified payment due dates, late payment determinations are ambiguous, grace periods are unclear, and default triggers are uncertain. This affects obligations p-002 (minimum rent), p-004 (taxes), p-005 (personal property taxes), and p-013 (charges not excused by force majeure).",
+        "category": "financial",
+        "severity": "high",
+        "evidence": {
+          "text": "Uncertainty flags: missing_payment_dates",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Review the full lease text for payment timing provisions in Articles IV and related sections; document all due dates, grace periods, and late charge provisions.",
+        "is_blocking": true,
+        "risk_priority_score": 130
+      },
+      {
+        "risk_id": "r-014",
+        "title": "Tenant Self-Help for Landlord Default — Reimbursement Uncertainty",
+        "description": "If the Landlord fails to cure a default within 30 days and the Tenant cures on the Landlord's account, the Tenant has a right to reimbursement and may deduct uncollected amounts from future rent. The amount of such cure costs is unlimited and unquantified, and the Landlord's obligation to reimburse is subject to dispute. This creates potential for contested rent deductions and constructive eviction claims.",
+        "category": "legal",
+        "severity": "medium",
+        "evidence": {
+          "text": "Triggered if Landlord fails to cure its default within 30 days and Tenant cures the default on Landlord's account. Landlord must reimburse Tenant on demand; if not reimbursed, Tenant may deduct from future rent payments.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Define scope and cap of Tenant's cure rights; require Tenant to provide advance notice before exercising cure rights; establish a dispute resolution mechanism for contested deductions.",
+        "is_blocking": false,
+        "risk_priority_score": 20
+      },
+      {
+        "risk_id": "r-015",
+        "title": "Conditional Escalation Clause — Variable Cost Risk",
+        "description": "The lease includes conditional escalation provisions (flagged as 'conditional_escalation') that could trigger rent increases under unspecified conditions. Without the full escalation formula or triggering events, the maximum rent liability is unknown and valuation of the lease at any future point in the term is unreliable.",
+        "category": "financial",
+        "severity": "high",
+        "evidence": {
+          "text": "Uncertainty flags: conditional_escalation",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": "Article IV"
+        },
+        "mitigation": "Extract the full escalation clause from Article IV; model all escalation scenarios; confirm whether escalations are CPI-linked, fixed-step, or tied to other benchmarks.",
+        "is_blocking": true,
+        "risk_priority_score": 130
+      },
+      {
+        "risk_id": "r-016",
+        "title": "California Regulatory and Compliance Exposure",
+        "description": "The premises are located in El Monte, California, and the Tenant is an energy company. California imposes complex environmental, energy, zoning, and land use regulations. The lease terms regarding permitted use, compliance obligations, and environmental liability are not detailed in the retrieved passages. Energy operations may require permits subject to change, imposing ongoing compliance costs and potential liability on the Tenant or Landlord.",
+        "category": "compliance",
+        "severity": "medium",
+        "evidence": {
+          "text": "Premises at 4350 Temple City Boulevard, El Monte, California",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Review permitted use clauses and compliance with applicable law provisions; conduct environmental due diligence on the property; confirm required permits and licenses are current.",
+        "is_blocking": false,
+        "risk_priority_score": 20
+      },
+      {
+        "risk_id": "r-017",
+        "title": "Contested Payment Recovery Under Protest Clause",
+        "description": "Either party may pay disputed amounts under protest and institute suit for recovery if no legal obligation to pay exists. This mechanism, while protective, creates ongoing litigation risk and uncertainty around the finality of payments. Multiple disputed payments could accumulate without resolution, straining the landlord-tenant relationship and creating accounting complexity.",
+        "category": "legal",
+        "severity": "low",
+        "evidence": {
+          "text": "Either party may pay disputed amounts under protest and institute suit for recovery if no legal obligation to pay exists.",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": 13,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Establish a structured dispute resolution process with defined timelines and escalation paths to limit the accumulation of protest claims.",
+        "is_blocking": false,
+        "risk_priority_score": 10
+      },
+      {
+        "risk_id": "r-018",
+        "title": "Security Deposit Adequacy — Fixed at $20,000 Against Multi-Million Dollar Obligations",
+        "description": "The security deposit is fixed at $20,000, which is minimal relative to the total lease obligations (77 months of undisclosed rent plus taxes, percentage rent, and contingent liabilities). In the event of Tenant default, this deposit provides negligible protection for the Landlord against the full scope of potential losses.",
+        "category": "financial",
+        "severity": "medium",
+        "evidence": {
+          "text": "Security deposit paid by Tenant to Landlord at lease commencement; amount: $20,000",
+          "source": "llm_extracted",
+          "chunk_id": "llm_extracted",
+          "page": null,
+          "relevance_score": null,
+          "section": null
+        },
+        "mitigation": "Assess whether the security deposit is adequate relative to the annual rent obligation; consider requiring a letter of credit or guaranty as supplemental security.",
+        "is_blocking": false,
+        "risk_priority_score": 20
+      }
+    ],
+    "overall_risk_level": "critical",
+    "uncertainty_flags": [
+      "ambiguous_amount",
+      "missing_payment_dates",
+      "conditional_escalation",
+      "ambiguous_renewal_terms",
+      "missing_amount:p-002",
+      "conditional_obligation:p-003",
+      "missing_amount:p-003",
+      "missing_amount:p-004",
+      "missing_amount:p-005",
+      "conditional_obligation:p-007",
+      "missing_amount:p-007",
+      "conditional_obligation:p-008",
+      "missing_amount:p-008",
+      "conditional_obligation:p-009",
+      "missing_amount:p-009",
+      "conditional_obligation:p-010",
+      "missing_amount:p-010",
+      "conditional_obligation:p-011",
+      "missing_amount:p-011",
+      "conditional_obligation:p-012",
+      "missing_amount:p-012",
+      "missing_amount:p-013"
+    ],
+    "confidence": "low"
+  },
+  "review_decision": {
+    "contract_id": "contract_01",
+    "decision": "clarification_required",
+    "rationale": "Contract has 6 blocking financial risk(s) that must be resolved. Clarification is required before approval.",
+    "follow_up_questions": [
+      {
+        "question_id": "q-001",
+        "question": "Regarding risk 'Missing Minimum Rent Schedule Amounts': This is a blocking issue — The monthly base (Minimum) Rent obligation (p-002) has no specific amounts stated in the retrieved passages. The escalating rent schedule is referenced in Article IV but not fully quoted. Without these figures, the total lease liability cannot be reliably calculated, and the escalation profile is unknown. This is a critical gap for valuation and financial risk assessment. How should this be resolved before approval?",
+        "target_audience": "finance",
+        "related_risk_id": "r-001"
+      },
+      {
+        "question_id": "q-002",
+        "question": "Regarding risk 'Undefined Percentage Rent Formula and Thresholds': This is a blocking issue — Obligation p-003 identifies a Percentage Rent payable in addition to Minimum Rent, but the specific formula, breakpoint, and percentage rate are not disclosed in the retrieved passages. This creates an indeterminate variable cost exposure for the tenant and an uncertain revenue stream for the landlord. The valuation context includes this obligation at full stated value despite no stated value existing, amplifying the uncertainty. How should this be resolved before approval?",
+        "target_audience": "finance",
+        "related_risk_id": "r-002"
+      },
+      {
+        "question_id": "q-003",
+        "question": "Regarding risk 'Accelerated Rent Upon Default — Full Remaining Term Liability': This is a blocking issue — Upon a Tenant default, the Landlord may declare all remaining Minimum Rent, Taxes, and other amounts for the entire remaining lease term immediately due and payable as a lump sum. This creates a potentially very large contingent liability for the Tenant (up to six-plus years of rent in a worst-case early default scenario). The valuation context includes this at full stated value, but the amounts are unknown because the rent schedule is missing. How should this be resolved before approval?",
+        "target_audience": "finance",
+        "related_risk_id": "r-003"
+      },
+      {
+        "question_id": "q-004",
+        "question": "Regarding risk 'Ambiguous Renewal Option Terms and Financial Impact': This is a blocking issue — The contract summary references renewal options but the retrieved passages and obligation records do not specify the number of renewal periods, their duration, the rent applicable during renewal, or the notice requirements. Ambiguous renewal terms mean the total potential lease duration and associated rent obligations are unknown, materially affecting valuation. How should this be resolved before approval?",
+        "target_audience": "finance",
+        "related_risk_id": "r-004"
+      },
+      {
+        "question_id": "q-005",
+        "question": "Regarding risk 'Missing Payment Due Dates for Recurring Obligations': This is a blocking issue — The uncertainty flags identify 'missing_payment_dates' as a systemic issue across multiple obligations. Without specified payment due dates, late payment determinations are ambiguous, grace periods are unclear, and default triggers are uncertain. This affects obligations p-002 (minimum rent), p-004 (taxes), p-005 (personal property taxes), and p-013 (charges not excused by force majeure). How should this be resolved before approval?",
+        "target_audience": "finance",
+        "related_risk_id": "r-013"
+      }
+    ],
+    "decision_factors": [
+      "6 blocking financial risk(s)"
+    ],
+    "decision_uncertainty_flags": [
+      "ambiguous_amount",
+      "missing_payment_dates",
+      "conditional_escalation",
+      "ambiguous_renewal_terms",
+      "missing_amount:p-002",
+      "conditional_obligation:p-003",
+      "missing_amount:p-003",
+      "missing_amount:p-004",
+      "missing_amount:p-005",
+      "conditional_obligation:p-007",
+      "missing_amount:p-007",
+      "conditional_obligation:p-008",
+      "missing_amount:p-008",
+      "conditional_obligation:p-009",
+      "missing_amount:p-009",
+      "conditional_obligation:p-010",
+      "missing_amount:p-010",
+      "conditional_obligation:p-011",
+      "missing_amount:p-011",
+      "conditional_obligation:p-012",
+      "missing_amount:p-012",
+      "missing_amount:p-013",
+      "has_blocking_risks",
+      "has_critical_risks"
+    ],
+    "confidence": "medium"
+  }
+}
