@@ -1,0 +1,27 @@
+# Web framework
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+
+# Data validation
+pydantic>=2.9.0
+pydantic-settings>=2.6.0
+
+# Numerical computing (vector store cosine similarity)
+numpy>=1.26.0
+
+# PDF processing
+pypdf>=4.0.2
+
+# OCR
+ocrmypdf>=14.3.0
+
+# LLM providers (implementations added in next step)
+anthropic>=0.39.0
+openai>=1.54.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=8.3.0
+httpx>=0.27.0
